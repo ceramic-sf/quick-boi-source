@@ -372,7 +372,7 @@ Table of Contents:
     - [Flowers and flower-finding skills are hard to forge](#flowers-and-flower-finding-skills-are-hard-to-forge)
     - [Objective standards allow for forgery identification](#objective-standards-allow-for-forgery-identification)
     - [People can discover objective beauty](#people-can-discover-objective-beauty)
-    - [Colour, contrast and symmetry are ont beautiful](#colour-contrast-and-symmetry-are-ont-beautiful)
+    - [Colour, contrast and symmetry are ont beautiful](#colour-contrast-and-symmetry-are-not-beautiful)
     - [Natural landscapes are a different sort of beauty](#natural-landscapes-are-a-different-sort-of-beauty)
     - [Perceiving objective beauty requires knowledge with reach](#perceiving-objective-beauty-requires-knowledge-with-reach)
     - [Art can have subjective and objective components](#art-can-have-subjective-and-objective-components)
@@ -3742,7 +3742,7 @@ People can understand the world and are able to identify things that have object
 
 *Plants converge to an instance of beauty, people can perceive all the difference instances of beauty.*
 
-### Colour, contrast and symmetry are ont beautiful
+### Colour, contrast and symmetry are not beautiful
 
 ```md
 Unappealing things can have the same basic patterns that flowers have, so there seems to be more happening in flowers.
