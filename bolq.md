@@ -43,6 +43,9 @@ Plain language concept.
 The content is based on Brett Hall's reading of the Beginning of Infinity in his podcast ToKast. Chapters and content are therefore roughly aligned with
 those in The Beginning of Infinity.
 
+The book source text and scripts for generating diagrams are located at
+https://github.com/ceramic-sf/quick-boi-source. All edits/PRs should be made in that repository.
+
 Table of Contents:
 
 - [Quick Reference Handbook for the Beginning of Infinity](#quick-reference-handbook-for-the-beginning-of-infinity)
