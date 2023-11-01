@@ -48,11 +48,12 @@ https://github.com/ceramic-sf/quick-boi-source. All edits/PRs should be made in 
 
 Table of Contents:
 
-- [Quick Reference Handbook for the Beginning of Infinity](#quick-reference-handbook-for-the-beginning-of-infinity)
+
+- [QuickBOI - A Reference Handbook for The Beginning of Infinity](#quickboi---a-reference-handbook-for-the-beginning-of-infinity)
   - [Foreword](#foreword)
   - [Chapter 1 - The Reach of Explanations](#chapter-1---the-reach-of-explanations)
     - [Realism](#realism)
-    - [Fallabalism](#fallabalism)
+    - [Fallibilism](#fallibilism)
     - [The problem with Empiricism](#the-problem-with-empiricism)
     - [The problem with induction](#the-problem-with-induction)
     - [The use of observations](#the-use-of-observations)
@@ -67,7 +68,7 @@ Table of Contents:
     - [Good science](#good-science)
     - [The problem with correlations](#the-problem-with-correlations)
     - [The problem with Bayesianism](#the-problem-with-bayesianism)
-    - [Occams Razor](#occams-razor)
+    - [Occam's Razor](#occams-razor)
     - [Knowledge](#knowledge)
     - [Reach of explanations](#reach-of-explanations)
   - [Chapter 2 - Closer to Reality](#chapter-2---closer-to-reality)
@@ -281,7 +282,7 @@ Table of Contents:
     - [Things cannot be waves and particles](#things-cannot-be-waves-and-particles)
     - [Photons are a multiverse object](#photons-are-a-multiverse-object)
     - [Particles of different phases cancel out](#particles-of-different-phases-cancel-out)
-    - [Photelectric effect shows photons are particles](#photelectric-effect-shows-photons-are-particles)
+    - [Photoelectric effect shows photons are particles](#photoelectric-effect-shows-photons-are-particles)
     - [Our universe differentiates and rejoins](#our-universe-differentiates-and-rejoins)
     - [Interference is when a particle combines two universes](#interference-is-when-a-particle-combines-two-universes)
     - [Universes are not created](#universes-are-not-created)
@@ -388,7 +389,7 @@ Table of Contents:
     - [Retold stories are examples of memes](#retold-stories-are-examples-of-memes)
     - [Creativity is evolutionary in nature in the mind](#creativity-is-evolutionary-in-nature-in-the-mind)
     - [Memes have two steps](#memes-have-two-steps)
-    - [Goal of society shoud be to become dynamic rather than static](#goal-of-society-shoud-be-to-become-dynamic-rather-than-static)
+    - [Goal of society should be to become dynamic rather than static](#goal-of-society-should-be-to-become-dynamic-rather-than-static)
     - [The problem naturalistic preferences](#the-problem-naturalistic-preferences)
     - [Biological evolution is just a preface for memetic evolution](#biological-evolution-is-just-a-preface-for-memetic-evolution)
     - [Some memes can be intelligently designed](#some-memes-can-be-intelligently-designed)
@@ -400,7 +401,7 @@ Table of Contents:
     - [Antirational memes](#antirational-memes)
     - [Memes must match the society to survive](#memes-must-match-the-society-to-survive)
     - [Static cultures cannot become static after periods of being dynamic](#static-cultures-cannot-become-static-after-periods-of-being-dynamic)
-    - [Antirationl memes can be detected by the shame they cause](#antirationl-memes-can-be-detected-by-the-shame-they-cause)
+    - [Antirational memes can be detected by the shame they cause](#antirational-memes-can-be-detected-by-the-shame-they-cause)
     - [Transition from static to dynamic society happens slowly](#transition-from-static-to-dynamic-society-happens-slowly)
     - [The Enlightenment is when the world is mainly transformed by explanatory knowledge](#the-enlightenment-is-when-the-world-is-mainly-transformed-by-explanatory-knowledge)
     - [The problem with the collective inventor](#the-problem-with-the-collective-inventor)
@@ -462,7 +463,7 @@ Table of Contents:
     - [Creativity requires optimism](#creativity-requires-optimism)
     - [We grow our knowledge growth by problem hopping](#we-grow-our-knowledge-growth-by-problem-hopping)
     - [All theories are not equal](#all-theories-are-not-equal)
-    - [Fallibalism does not require passivism](#fallibalism-does-not-require-passivism)
+    - [Fallibilism does not require passivism](#fallibilism-does-not-require-passivism)
     - [Objective truths exist in all disciplines and finality in none of them](#objective-truths-exist-in-all-disciplines-and-finality-in-none-of-them)
     - [Knowledge creation is a form of computation](#knowledge-creation-is-a-form-of-computation)
     - [We are at the beginning of scientific progress](#we-are-at-the-beginning-of-scientific-progress)
@@ -470,7 +471,7 @@ Table of Contents:
     - [We cannot see all the universe](#we-cannot-see-all-the-universe)
     - [The problem with anthropic arguments](#the-problem-with-anthropic-arguments)
     - [The problem with Quantum suicide](#the-problem-with-quantum-suicide)
-    - [The problem with probabalistic simulation theory](#the-problem-with-probabalistic-simulation-theory)
+    - [The problem with probabilistic simulation theory](#the-problem-with-probabilistic-simulation-theory)
     - [The problem with morality of simulation theory](#the-problem-with-morality-of-simulation-theory)
     - [The rate of innovation after the singularity will not be too rapid](#the-rate-of-innovation-after-the-singularity-will-not-be-too-rapid)
     - [Humans have previously coped with singularity-type events](#humans-have-previously-coped-with-singularity-type-events)
@@ -498,7 +499,7 @@ We seem to exist in a real world where there are actions we can do to build and 
 
 *Realism is the acknowledgement objective reality.*
 
-### Fallabalism
+### Fallibilism
 
 ```md
 Everything may be wrong in some way. Good ideas are very useful, but they may always be replaced by better ideas.
@@ -506,9 +507,9 @@ Everything may be wrong in some way. Good ideas are very useful, but they may al
 
 Theories contain both truth and misconceptions. A theory may be good but later found to be improved by another, better, theory. So it is with every theory, and no matter how good a theory is, there is always room for another theory to be created that improves. Thus every theory can be thought of as having some true and false components.
 
-Fallabalism is a foundation concept. People are subject to error, and so whenever we think that we have something true, we could be wrong about that. Theories contain both true and false elements. Newtownian physics was a great theory that was practical and contained some truth, it was replaced by Einstein's General Relativity, which is more accurate. "By what means?" is the question to find how a theory may be fallable.
+Fallibilism is a foundation concept. People are subject to error, and so whenever we think that we have something true, we could be wrong about that. Theories contain both true and false elements. Newtonian physics was a great theory that was practical and contained some truth, it was replaced by Einstein's General Relativity, which is more accurate. "By what means?" is the question to find how a theory may be fallible.
 
-*The phrase "By what means?" demonstrates that for a theory to be considered absolutely true, another theory must be used (which itself requires another theory for its own truth to be sercured.
+*The phrase "By what means?" demonstrates that for a theory to be considered absolutely true, another theory must be used (which itself requires another theory for its own truth to be secured.
 
 ### The problem with Empiricism
 
@@ -518,7 +519,7 @@ Empiricism ("seeing is believing") is wrong. It is not enough to see things to u
 
 Seeing something happen can be a powerful way to develop ideas about the world. That is not a good way to develop good theories. It is insufficient to use and trust observations alone. It is instead ideas and their critiques that lead to knowledge.
 
-*Empiricism (observations lead to knowledge) is refuted by [fallabalism](#fallabalism) (any piece of knowledge may be wrong), for all observations are made by people in the end. Knowledge is formed first through conjecture then refutation.*
+*Empiricism (observations lead to knowledge) is refuted by [fallibilism](#fallibilism) (any piece of knowledge may be wrong), for all observations are made by people in the end. Knowledge is formed first through conjecture then refutation.*
 
 ### The problem with induction
 
@@ -546,9 +547,9 @@ To observe or experiment is the mechanism to make a selection between theories w
 Don't believe theories that appear to be true. Use them, but look for better theories.
 ```
 
-Justifictication is the idea that theories should be believed once they are supported by good evidence (justified). It is incorrect because [theories will always contain some error](#fallabalism). It is better to believe that theories may be "the best we have so far", but they may be replaced by better theories later.
+Justification is the idea that theories should be believed once they are supported by good evidence (justified). It is incorrect because [theories will always contain some error](#fallibilism). It is better to believe that theories may be "the best we have so far", but they may be replaced by better theories later.
 
-*Justificationism is refuted by fallabalism.*
+*Justificationism is refuted by fallibilism.*
 
 ### Truth
 
@@ -566,7 +567,7 @@ Truth is a regularity or law in nature. Something is a truth if it is the way so
 We find theories with more and more ability to match reality (truth) over time.
 ```
 
-Theories have both [true and false](#truth) false components because if a better theory is invented it has more truth than the original theory. The original theory still has some truth, even after the new theory is made. We work to incrementally increase the truth in theories, but you never know what hidden false part may be discovered because all theories are [fallible](#fallabalism).
+Theories have both [true and false](#truth) false components because if a better theory is invented it has more truth than the original theory. The original theory still has some truth, even after the new theory is made. We work to incrementally increase the truth in theories, but you never know what hidden false part may be discovered because all theories are [fallible](#fallibilism).
 
 *Theories contain a mix of truth and falsity. We seek to make incremental increases in the truth in new theories.*
 
@@ -578,7 +579,7 @@ When people are encouraged to challenge old ideas, new ideas are made. If they a
 
 The Enlightenment happened when society developed a culture of challenging the current theories. This encourages people to create new, better theories with [more truth](#incremental-truth).
 
-*A tradition of criticism is the defining characteristic of the Enlightenment. A philisophical change leading to better theories.*
+*A tradition of criticism is the defining characteristic of the Enlightenment. A philosophical change leading to better theories.*
 
 ### Testability allows falsification of theories
 
@@ -601,7 +602,7 @@ The two types of tests (experiments) are:
 - Crucial test. An experiment that, if the results were "just so", would [falsify a theory](#testability-allows-falsification-of-theories). It allows you to choose between two competing theories. This is a crucial component of science. This is a cornerstone of falsification.
 - Non-crucial test. An experiment that if the results were "just so", would merely make the theory problematic. However, with no better theory, it is still tentatively held as the best theory until a better one is invented. It is useful for directing research programs.
 
-*A curcial test allows a choice between two theories. A non-crucial test does not.*
+*A crucial test allows a choice between two theories. A non-crucial test does not.*
 
 ### Good explanations
 
@@ -631,7 +632,7 @@ Good science is when an explanation is created and then tested. It is an explana
 
 Good [science](#science-is-the-search-for-good-explanations) involves first developing an explanation about why something will happen, and then [testing](#testability-allows-falsification-of-theories) that explanation. This is only possible if there is a [tradition of criticism](#tradition-of-criticism). Doomsday prophets (world ends in 2 days) and gamblers (the next roll will be a 6) have testable theories, but this is bad science because it leads to explanations that are easy to vary (world actually ends in 4 days).
 
-*Good science is a good explanation plus a testable theory. The substance of scintific theory is explanation, and the explanation of errors constitutes most of the content of the design of any nontrivial scientific experiment.*
+*Good science is a good explanation plus a testable theory. The substance of scientific theory is explanation, and the explanation of errors constitutes most of the content of the design of any non-trivial scientific experiment.*
 
 ### The problem with correlations
 
@@ -639,7 +640,7 @@ Good [science](#science-is-the-search-for-good-explanations) involves first deve
 A search for correlations can result in findings that predict things well, but encourage thinking that does not match reality of how things work.
 ```
 
-Search for correlations leads to testable theories without explanations, which is [bad science](#good-science). Correlations can be found beween two variables without an explanation about why one thing causes another. An explanation allows the theory to be falsified.
+Search for correlations leads to testable theories without explanations, which is [bad science](#good-science). Correlations can be found between two variables without an explanation about why one thing causes another. An explanation allows the theory to be falsified.
 
 For example consider that people living near power stations have worse health. If no explanation is created, a policy to ban living around power stations might be made. One theory is that radiation from the station affects health, you could falsify that theory by putting people near power stations and seeing if they had worse health. It turns out that the lower health was caused by properties being cheaper around power stations, and those people had less money for health care. So putting a wealthy people near the station would not cause poor health, thus falsifying the theory.
 
@@ -655,7 +656,7 @@ Bayes' theorem is a good statistical tool in narrow applications. It cannot be u
 
 *Bayesianism is refuted because it is a form of inductivism.*
 
-### Occams Razor
+### Occam's Razor
 
 ```md
 The simplest option is the best.
@@ -683,7 +684,7 @@ As long as there are people there to receive and use it.
 Ideas have impact on the real world
 ```
 
-Ideas "reach out" to solve problems beyond what they were originally understood or predicted to have. One explanaion may result in dozens of explanations about seemingly unrelated phenomena. For example, the axis tilt theory of earth resulted in multiple explanations about things in the world.
+Ideas "reach out" to solve problems beyond what they were originally understood or predicted to have. One explanation may result in dozens of explanations about seemingly unrelated phenomena. For example, the axis tilt theory of earth resulted in multiple explanations about things in the world.
 
 *Explanations have effects on multiple areas beyond the original context.*
 
@@ -705,7 +706,7 @@ A theory which lies beneath many other theories. An example is the axis tilt the
 A theory that other theories depend upon.
 ```
 
-TODO Check this. A foundational theory is one that required for subsequent theories to make sense. [Fallabalism](#fallabalism) is foundational because it is the basis for many theories, but it is not a [fundamental theory](#fundamental-theory) (a theory that keeps popping up everywhere).
+TODO Check this. A foundational theory is one that required for subsequent theories to make sense. [Fallibilism](#fallibilism) is foundational because it is the basis for many theories, but it is not a [fundamental theory](#fundamental-theory) (a theory that keeps popping up everywhere).
 
 *Foundational is one that if it were removed, other theories would be affected.*
 
@@ -715,9 +716,9 @@ TODO Check this. A foundational theory is one that required for subsequent theor
 It is wrong to seek final answers.
 ```
 
-To seek absolute truth is to be anti-fallabalist, because any final destination itself is [fallable](#fallabalism). Scientists should not seek final answers for this reason.
+To seek absolute truth is to be anti-fallibilist, because any final destination itself is [fallible](#fallibilism). Scientists should not seek final answers for this reason.
 
-*Absolute truth is refuted by fallabalist.*
+*Absolute truth is refuted by fallibilist.*
 
 ### The universe is our home
 
@@ -755,7 +756,7 @@ Computer astronomers do not get a sense of awe like human astronomers. Computers
 Knowledge may or may not match reality, and there can be a real way test if it does.
 ```
 
-Any [knowledge](#knowledge) may have some [false part](#truth) that can be identified and corrected. This is a real way that knowldge either matches or does not match reality. So knowledge can objective in this regard.
+Any [knowledge](#knowledge) may have some [false part](#truth) that can be identified and corrected. This is a real way that knowledge either matches or does not match reality. So knowledge can objective in this regard.
 
 *Knowledge is fallible, and being fallible implies error can exist. The discovery of the error can be objective, though some errors may be very difficult to discover.*
 
@@ -791,7 +792,7 @@ Seeing evidence in an experiment doesn't lead to new theories (that is [inductiv
 
 Any experience in life may lead you to encounter a problem, which you then may try to solve. Sometimes experiments throw up new problems that are unexpected. Creating a solution to that problem in the form of a new theory is not the result of the experiment, even though it happened around the experiment.
 
-*Experiements are a process to reject bad theories. Evidence does not generate theories. Performing an experiment may expose you to new problems to create solutions to (new theories), but this may happen in any situation and is not unique to experiments.*
+*Experiments are a process to reject bad theories. Evidence does not generate theories. Performing an experiment may expose you to new problems to create solutions to (new theories), but this may happen in any situation and is not unique to experiments.*
 
 ### Imagination
 
@@ -839,7 +840,7 @@ The universe is not built for humans, nor did they play a role in its formation.
 
 Physically there is no center of the universe and humans have no special role in the story of the universe.
 
-*That we are not at a gemoetric center of the universe, or central to the formation of the universe is a refutation of anthropocentrism.*
+*That we are not at a geometric center of the universe, or central to the formation of the universe is a refutation of anthropocentrism.*
 
 ### The problem with parochialism
 
@@ -847,7 +848,7 @@ Physically there is no center of the universe and humans have no special role in
 Patterns around us should not be expected to apply to the whole universe.
 ```
 
-Making the error that what is happening in one's local environment happens to be of universal importance. It is easy to mistake the features of ones own environment (movement of the stars) as objective realities of the broader universe (the [anthropocenric](#humans-are-not-the-center-of-the-universe) revolution of stars around Earth). Parochial etymology is from 'parish', as in confined to a small or narrow area.
+Making the error that what is happening in one's local environment happens to be of universal importance. It is easy to mistake the features of ones own environment (movement of the stars) as objective realities of the broader universe (the [anthropocentric](#humans-are-not-the-center-of-the-universe) revolution of stars around Earth). Parochial etymology is from 'parish', as in confined to a small or narrow area.
 
 *Parochialism is when rules of thumb can be confused as universal laws.*
 
@@ -857,7 +858,7 @@ Making the error that what is happening in one's local environment happens to be
 An idea is significant if common sense is not enough to explain it, or if it explains many things.
 ```
 
-A theory is significant if there are no obvious day-to-day ([parochial](#the-problem-with-parochialism)) things that explain it well, or if it is a [fundamental](#fundamental-theory) (the basis for explaning many different things).
+A theory is significant if there are no obvious day-to-day ([parochial](#the-problem-with-parochialism)) things that explain it well, or if it is a [fundamental](#fundamental-theory) (the basis for explaining many different things).
 
 *A theory is significant/fundamental if [parochial theories](#the-problem-with-parochialism) are inadequate to explain it, or it appears in the explanation of many other phenomena.*
 
@@ -867,7 +868,7 @@ A theory is significant if there are no obvious day-to-day ([parochial](#the-pro
 Information about how something works, which can be used to transform the physical world.
 ```
 
-TODO (make this better, see constructor theory). Explanatory knowledge is [knowledge](#knowledge) (something that can, when pointed, have a real impact) that is a [good explanaion](#good-explanations) (a theory about how something works, in a way that is hard to vary). So when the explanation is pointed at something, it causes that thing to be transformed.
+TODO (make this better, see constructor theory). Explanatory knowledge is [knowledge](#knowledge) (something that can, when pointed, have a real impact) that is a [good explanation](#good-explanations) (a theory about how something works, in a way that is hard to vary). So when the explanation is pointed at something, it causes that thing to be transformed.
 
 *Explanatory knowledge is an force-like thing that involves explanations causing physical effects in the world.*
 
@@ -879,7 +880,7 @@ People are more important to the universe than non-people entities. They can exp
 
 People create [explanatory knowledge](#explanatory-knowledge). This makes them significant in the universe because of the impact they can have. While it is good to reject [traditional anthropocentrism](#humans-are-not-the-center-of-the-universe), humans are unique and more special than other non-people entities. So the Earth is a "hub" and is significant in the universe because people are here.
 
-*People are special in that they create explanatory knowledge. This makes humans consmically significant.*
+*People are special in that they create explanatory knowledge. This makes humans cosmically significant.*
 
 ### People can make environmental anomalies
 
@@ -897,7 +898,7 @@ Humans can make temperatures well below what is known to occur anywhere else in 
 Society today looks at people as the cause of all the problems in the world, and that they are nothing special. Yet we are the only ones that can save Earth from a multitude of problems.
 ```
 
-The principle of mediocrity is that humans are nothing special, and it is a commonly held truism (typical organism on a typical planet on a typical star). However because humans are people, we create [explanatory knowledge](#explanatory-knowledge), which is not a mediocre thing. Humans take our inhospitable planet and make it hospitible. In the future we will anticipate and prevent problems into the future.
+The principle of mediocrity is that humans are nothing special, and it is a commonly held truism (typical organism on a typical planet on a typical star). However because humans are people, we create [explanatory knowledge](#explanatory-knowledge), which is not a mediocre thing. Humans take our inhospitable planet and make it hospitable. In the future we will anticipate and prevent problems into the future.
 
 *The principle of mediocrity ignores that humans create explanatory knowledge.*
 
@@ -918,7 +919,7 @@ Disease, fire, wind, cold, predators. We do the best that we can to protect us f
 People have the power to make unliveable places liveable.
 ```
 
-While space woud kill a human in seconds, Oxfordshire winter would kill you in hours. We have a biopshere that prevents this (houses), so we survive, but only because of our capacity to change the environment. Much of the environment [would otherwise kill us](#the-problem-with-spaceship-earth), as it has killed nearly all of the organisms that have come before us.
+While space would kill a human in seconds, Oxfordshire winter would kill you in hours. We have a biosphere that prevents this (houses), so we survive, but only because of our capacity to change the environment. Much of the environment [would otherwise kill us](#the-problem-with-spaceship-earth), as it has killed nearly all of the organisms that have come before us.
 
 *The most hospitable parts of the biosphere on Earth are made possible by people.*
 
@@ -928,7 +929,7 @@ While space woud kill a human in seconds, Oxfordshire winter would kill you in h
 The environment keeps changing.
 ```
 
-The Earth has a changing environment, on all time scales. Evolution happens because of this change, as organisms respond to the changes (geological, weather, food, predators). So the environment will keep changing, forcing the current orgnisms to keep evolving. That is the natural state, one of change.
+The Earth has a changing environment, on all time scales. Evolution happens because of this change, as organisms respond to the changes (geological, weather, food, predators). So the environment will keep changing, forcing the current organisms to keep evolving. That is the natural state, one of change.
 
 *The environment changes continuously.*
 
@@ -945,7 +946,7 @@ The [environment keeps changing](#the-environment-is-expected-to-change) and org
 ### Wealth
 
 ```md
-Wealth is how much you could change if you were to try. It realtes to the amount of things we are able to use.
+Wealth is how much you could change if you were to try. It relates to the amount of things we are able to use.
 ```
 
 Wealth is a measure of what can be transformed. It is a measure of what sort of things you could change or create in the world around you if you were to try. It relates to the quantity of resources we have access to, including technology. It depends on how much [explanatory knowledge](#explanatory-knowledge) we have, for resources increase the more we know.
@@ -955,7 +956,7 @@ Wealth is a measure of what can be transformed. It is a measure of what sort of 
 ### The carrying capacity of the Earth for humans is unlimited
 
 ```md
-New inventions change what we use and need on Earth. It is possible that the Earth can accomodate us indefinitely.
+New inventions change what we use and need on Earth. It is possible that the Earth can accommodate us indefinitely.
 ```
 
 Knowledge of artificial fertiliser enabled us to live at higher density. We cannot predict what further technology will increase the capacity of the Earth further. As our [wealth](#wealth) increases, so does the carrying capacity of Earth.
@@ -1098,7 +1099,7 @@ Given we can [understand a superintelligent](#humans-can-match-a-superintelligen
 An environment can support the creation of knowledge if it has physical things, energy, and away to represent evidence.
 ```
 
-An environement can support an open ended stream of [explanatory knowledge](#explanatory-knowledge) if it has:
+An environment can support an open ended stream of [explanatory knowledge](#explanatory-knowledge) if it has:
 
 1. Matter
 2. Energy
@@ -1134,7 +1135,7 @@ Moral knowledge is about what to want and what to strive for.
 Making choices about what is the right thing to do needs to go beyond suffering, because we may one day solve all suffering.
 ```
 
-If we were to eliminate all suffering in the future, we would still need to [choose what to do next](#moral-knowledge). This would involved makng decisions without having the concept of suffering as a guide. Hence, some other system is required.
+If we were to eliminate all suffering in the future, we would still need to [choose what to do next](#moral-knowledge). This would involved making decisions without having the concept of suffering as a guide. Hence, some other system is required.
 
 *Morality should not be about suffering because in a post-suffering world there are still moral choices to be made about what to do next.*
 
@@ -1144,9 +1145,9 @@ If we were to eliminate all suffering in the future, we would still need to [cho
 A future civilisation will always have some problem to be addressed.
 ```
 
-A utopia has no problems. However, everything is [fallable](#fallabalism) and so there will never be such a place. There will always be problems. This is a direction in which to more and provides a basis for [morality](#moral-knowledge). In any near-utopia, there will always be errors to correct.
+A utopia has no problems. However, everything is [fallible](#fallibilism) and so there will never be such a place. There will always be problems. This is a direction in which to more and provides a basis for [morality](#moral-knowledge). In any near-utopia, there will always be errors to correct.
 
-*Perfect utopias are refuted by fallabalism. Working on problems is a basis for morality.*
+*Perfect utopias are refuted by fallibilism. Working on problems is a basis for morality.*
 
 ### Problems are inevitable, problems are soluble
 
@@ -1203,7 +1204,7 @@ People and evolution both produce knowledge in the same basic process ([first id
 ### Evolution has limited reach
 
 ```md
-The knowledge that evolution makes comes from random errors leading to accidental improvements. People can be more careful and can create ideas for a specifc purpose.
+The knowledge that evolution makes comes from random errors leading to accidental improvements. People can be more careful and can create ideas for a specific purpose.
 ```
 
 Variations in evolution are random, but conjectures by the mind can be carefully crafted. Therefore, evolution has a lesser ability to affect the world (less [reach](#reach-of-explanations)).
@@ -1262,7 +1263,7 @@ A mouse contains knowledge embodied in its physical form. Each organ represents 
 2. A designer (but [designers need their designers to be accounted for](#the-problem-with-designer-theory) recursively)
 3. [Knowledge creation through variation and selection](#knowledge-is-created-in-one-way) (viable). Useful and useless things are both made. Only things that successfully interact with reality tend to persist over time.
 
-*Life contains implicit knowledge, obtained through variation and selection. Spontaneous instantiation of knowledge and desginer-based explanations both recursively invoke additional knowledge systems that are unaccounted for.*
+*Life contains implicit knowledge, obtained through variation and selection. Spontaneous instantiation of knowledge and designer-based explanations both recursively invoke additional knowledge systems that are unaccounted for.*
 
 ### Evolution creates knowledge
 
@@ -1270,7 +1271,7 @@ A mouse contains knowledge embodied in its physical form. Each organ represents 
 Evolution is based on errors that can be helpful or unhelpful. Helpful errors are useful and they tend to continue to exist.
 ```
 
-Evolution is a process where nature makes errors in replication. Some errors result in systems that interact well with the real world and tend to survive. Hence, an error is like an idea for how something shold work, and may be true or false. This is similar to the process that people use when they create explanatory knowledge where ideas are made and tested.
+Evolution is a process where nature makes errors in replication. Some errors result in systems that interact well with the real world and tend to survive. Hence, an error is like an idea for how something should work, and may be true or false. This is similar to the process that people use when they create explanatory knowledge where ideas are made and tested.
 
 *Random errors during biological replication are equivalent to ideas about what will work. Errors that tend to persist must contain some truth about the real world, and can be considered created knowledge.*
 
@@ -1320,7 +1321,7 @@ When trying to understand from a teacher, a student may understand it to mean wh
 A lesson about a good explanation (precise theory) is learnt accurately or not learnt. A lesson about a bad explanation (changeable theory) is learnt either accurately or inaccurately.
 ```
 
-A student is [creating a lesson actively in their mind](#learning-and-understanding-is-about-imperfect-copying). If the content of the lesson is hard to modify because it is a [good explanation](#good-explanations), a very bad copy is not going to survive criticism in their mind. So students will learn good explanations, or realise they do not undertand.
+A student is [creating a lesson actively in their mind](#learning-and-understanding-is-about-imperfect-copying). If the content of the lesson is hard to modify because it is a [good explanation](#good-explanations), a very bad copy is not going to survive criticism in their mind. So students will learn good explanations, or realise they do not understand.
 
 A student may learn a bad explanation, and because it is easy to vary, may change the lesson dramatically and have it still make sense under criticism. Hence bad explanations may evolve more rapidly from person to person.
 
@@ -1332,14 +1333,14 @@ A student may learn a bad explanation, and because it is easy to vary, may chang
 Evolution may be falsified, either partially or completely.
 ```
 
-An observation that an organism is only favouring the optimial organism, rather than selecting genes, would be a frfutation of [evolution by natural selection](#evolution-favours-the-genes-that-spread). There are also different aspects of the theory that could be [falsified](#testability-allows-falsification-of-theories), without refuting the whole.
+An observation that an organism is only favouring the optimal organism, rather than selecting genes, would be a refutation of [evolution by natural selection](#evolution-favours-the-genes-that-spread). There are also different aspects of the theory that could be [falsified](#testability-allows-falsification-of-theories), without refuting the whole.
 
 *Evolution may be falsified.*
 
 ### The problem with the fine tuning of physical constants
 
 ```md
-The universe has delicate parameters we cannot explain. However not undertanding does not imply there is a designer or god.
+The universe has delicate parameters we cannot explain. However not understanding does not imply there is a designer or god.
 ```
 
 There are about 30 physical constants that govern the rules of the universe. It is predicted that if they were slightly different values, then life could not form (e.g., planets would not form etc.). Thus it appears that they have been tuned for some purpose (a designer has hand tuned our universe). However, because we do not have a good explanation, does not imply that such an entity exists. We encounter problems and [problems are soluble](#problems-are-inevitable-problems-are-soluble). So while we do not currently know the explanation, someday we will.
@@ -1386,7 +1387,7 @@ Real things are things that we use in our explanations for how things work.
 
 For our [best explanations](#good-explanations), anything that they refer to must be [real](#realism). For example, the explanation for matter requires that we consider electrons to be real (matter -> atoms -> electrons).
 
-*If an entity is referrred to by our best explanation in the relevant field, we must regard it as really existing.*
+*If an entity is referred to by our best explanation in the relevant field, we must regard it as really existing.*
 
 ### Abstractions are not physical
 
@@ -1431,17 +1432,17 @@ You can explain why something happens in terms of its particles, but there is so
 ### Dualism involves physical and abstract coexisting
 
 ```md
-Absract concepts are real, and coexist with the physical. Hence the mind can have physical and non-physical parts.
+Abstract concepts are real, and coexist with the physical. Hence the mind can have physical and non-physical parts.
 ```
 
 A computer is built out of dominoes that computes if 641 is a prime number. Why does the output domino never fall results in two answers:
 
-- The preceeding domino never fell
+- The preceding domino never fell
 - 641 is prime
 
 The former is true but is missing something. The second is the more useful answer, but does not reference anything physical, merely the abstract concept of primality (not part of the laws of the universe). Hence, the [abstract](#abstractions-are-real) and physical coexist (dualism).
 
-*Abstract concepts and phyiscal objects coexist, and is an argument for dualism.*
+*Abstract concepts and physical objects coexist, and is an argument for dualism.*
 
 ### Knowledge is based on emergent phenomena
 
@@ -1469,9 +1470,9 @@ Each new theory that replaces an older one does not build upon it. It casts the 
 Things can seem true, but there is always some error that can be improved. So a better description is "our best effort at truth".
 ```
 
-Our best theories, while appearing true, are [flawed in yet-unseen ways](#fallabalism). Old theories can still produce "pretty good" predictions, and still [contain some truth](#theories-replace-each-other-yet-truth-growths). So our best theories are not true, but our most true theories.
+Our best theories, while appearing true, are [flawed in yet-unseen ways](#fallibilism). Old theories can still produce "pretty good" predictions, and still [contain some truth](#theories-replace-each-other-yet-truth-growths). So our best theories are not true, but our most true theories.
 
-*We can only have provisional truth. Everything is fallable.*
+*We can only have provisional truth. Everything is fallible.*
 
 ### Knowledge, while abstract, causes physical effects to replicate
 
@@ -1543,7 +1544,7 @@ Mathematics is the study of absolutely necessary truths. Necessary truth is mere
 
 Mathematical objects are things that are accessed via proofs, which are [subject to error](#mathematical-proofs-are-subject-to-error). So while mathematics may be pure, interacting with mathematics is an error-prone process. For example, creating a mathematical theorem requires a person to reason about the topic. This reasoning is a process that happens in the mind and is subject to error.
 
-*That mathematics can provide absolute truth (platonic idealism, or "the mathematicians misconception") is refuted by understanding that mathematical proofs are physically instantiated fallable programs.*
+*That mathematics can provide absolute truth (platonic idealism, or "the mathematicians misconception") is refuted by understanding that mathematical proofs are physically instantiated fallible programs.*
 
 ### The problem with mathematics being physical
 
@@ -1551,14 +1552,14 @@ Mathematical objects are things that are accessed via proofs, which are [subject
 Mathematics has physical and non-physical (abstract) parts.
 ```
 
-Mathematics has abstract componets, which are not instantiated in physical objects, yet are [real](#abstractions-are-real).
+Mathematics has abstract components, which are not instantiated in physical objects, yet are [real](#abstractions-are-real).
 
 *That mathematics must exist in physical forms (physicalism or materialism) is refuted by there being abstract components. Both are a form of rationalism or empiricism.*
 
 ### Morality has a reality independent of the laws of physics
 
 ```md
-Morality is about making progress. This invovles creating that have more truth in them. This could apply even in another universe with wildly different laws.
+Morality is about making progress. This involves creating that have more truth in them. This could apply even in another universe with wildly different laws.
 ```
 
 If a morally right action is to [solve problems](#you-can-decide-what-should-be-done), then morality is tied to finding and fixing errors. This ties morality to the concept of [truth](#truth), where to solve a problem is to make new knowledge that better reflects reality (a solution is creation of knowledge that contains more truth about the real universe that previous knowledge).
@@ -1577,7 +1578,7 @@ Systems that can be used to represent anything are universal.
 
 If something is universal, it can do anything and everything. Alphabet-based languages can be universal, meaning they can be used to represent any concept. A pictographic language (one picture per word) is not. Other universal systems associated with the enlightenment include moveable-type, justice, legitimacy, morality, matter and motion.
 
-*A system is universal if it contains enough expressivity to represent anything.*
+*A system is universal if it contains enough expressibility to represent anything.*
 
 ### Computers are universal
 
@@ -1605,7 +1606,7 @@ A [universal](#universality-is-about-doing-anything-and-everything) system allow
 An artificial general intelligence has creativity that can be used for any task it encounters.
 ```
 
-An artificial general intelligence (AGI) will have the capacity to solve problems that it was not programmed for. This is the property of [universality](#universality-is-about-doing-anything-and-everything) of [problem solving](#problems-are-inevitable-problems-are-soluble). An AGI is therefore [not predictable](#knowledge-creation-cannot-be-predicted), because it would create knwoledge. This separates it from other sophisticated, but narrow, AI programs.
+An artificial general intelligence (AGI) will have the capacity to solve problems that it was not programmed for. This is the property of [universality](#universality-is-about-doing-anything-and-everything) of [problem solving](#problems-are-inevitable-problems-are-soluble). An AGI is therefore [not predictable](#knowledge-creation-cannot-be-predicted), because it would create knowledge. This separates it from other sophisticated, but narrow, AI programs.
 
 *AGI is defined by its creativity. It can solve problems not described in its code.*
 
@@ -1627,7 +1628,7 @@ A computer that simulates a human mind can be conscious.
 
 Given that a computer can [simulate a human mind](#computers-can-simulate-a-human-brain), computers can be conscious.
 
-*Computers can be conscious, because they can simuate human brains, and we are conscious.*
+*Computers can be conscious, because they can simulate human brains, and we are conscious.*
 
 ### Quantum computers are possible
 
@@ -1637,7 +1638,7 @@ Computation is a branch of physics, so anything that is physical can be computed
 
 Quantum laws of physics can be used to show that computation is a branch of physics. Computers are made of atoms, which obey quantum theory, so there is a quantum theory of computation. This showed that [computers are universal simulators](#the-universality-of-quantum-computation) and that quantum computers are possible to build.
 
-*The proof in 1985 by Deutsch of the universality of quantum computation is evidence that a computer composed of qunatum elements can perform quantum computation.*
+*The proof in 1985 by Deutsch of the universality of quantum computation is evidence that a computer composed of quantum elements can perform quantum computation.*
 
 ### Error correction is required in computers
 
@@ -1665,9 +1666,9 @@ There is no such thing as a universal analogue computer. [Error correction is re
 The brain can compute anything, so it must have error correction capacity to run those computations. Analogue systems do not allow this, and so the brain must be digital.
 ```
 
-The [human brain is a universal computer](#brains-are-universal-turing-machines), and as [all universal computers are ditital](#all-universal-computers-are-digital-computers), the brain is a digital computer. There must be binary on-off states that allow error correction, and indeed neurons behave in an all-or-nothing way, where they are either on or off.
+The [human brain is a universal computer](#brains-are-universal-turing-machines), and as [all universal computers are digital](#all-universal-computers-are-digital-computers), the brain is a digital computer. There must be binary on-off states that allow error correction, and indeed neurons behave in an all-or-nothing way, where they are either on or off.
 
-*The brain must be a digital computer because it has the proprty of universality, which requires error correction that analogue computers lack.*
+*The brain must be a digital computer because it has the property of universality, which requires error correction that analogue computers lack.*
 
 ### Epistemology is digital
 
@@ -1677,9 +1678,9 @@ If your system for growing knowledge allows you to reject bad ideas, then your k
 
 Epistemology the theory of knowledge. Knowledge creation is about [error correction](#error-correction) where new knowledge allows for old knowledge to be discarded. This is possible because part of the old knowledge is shown to be false. This system of keeping or discarding is binary, and thus digital. If epistemology is digital, it must run on a digital system, such as the [human mind](#human-brain-is-a-digital-system).
 
-For comparison, other analogue systems for epistemology, instead retain both new and old theories rating them on degrees of truth, or probabalistic truth. These fail to have a method to correct errors and are therefore bounded rather than [universal](#universality-is-about-doing-anything-and-everything).
+For comparison, other analogue systems for epistemology, instead retain both new and old theories rating them on degrees of truth, or probabilistic truth. These fail to have a method to correct errors and are therefore bounded rather than [universal](#universality-is-about-doing-anything-and-everything).
 
-*Popperian epistemology is digital, meaning that it can correct errors. Other epistemologies are analogue and their scope is bounded not universal.*
+*Popperian epistemology is digital, meaning that it can correct errors. Other kinds of epistemology are analogue and their scope is bounded not universal.*
 
 ### DNA has universality
 
@@ -1809,9 +1810,9 @@ Programs that do narrow programs very well will always have domains they are inc
 It seems unlikely that you could have consciousness without being able to create explanations about how things work. They seem to go together, at least in humans. Hence they likely are going to happen together in computers.
 ```
 
-Humans have consciousness and the [capacity to create explanatory knowledge](#people-are-entities-that-create-explanatory-knowledge). No other entity has either of these things, and while we [do not understand consciousness](#to-code-is-to-comprehend), it is reasonable that they are connected. If connected, coding an AGI would make it conscious, rather than there being [categroy between AI and AGI](#ai-is-categorically-different-to-agi) where programs could have consciousness but not be able to create explanatory knowledge.
+Humans have consciousness and the [capacity to create explanatory knowledge](#people-are-entities-that-create-explanatory-knowledge). No other entity has either of these things, and while we [do not understand consciousness](#to-code-is-to-comprehend), it is reasonable that they are connected. If connected, coding an AGI would make it conscious, rather than there being [category between AI and AGI](#ai-is-categorically-different-to-agi) where programs could have consciousness but not be able to create explanatory knowledge.
 
-*The jump to unversality for a universal explainer constructor appears to be associated with consciousness.*
+*The jump to universality for a universal explainer constructor appears to be associated with consciousness.*
 
 ### A sense of free will may be free will
 
@@ -1881,7 +1882,7 @@ Current evolutionary algorithms are not true evolution. The code it is written i
 
 Existing algorithms work toward some future that the programmer has implicitly directed the evolution towards. This implicit knowledge has [reach](#reach-of-explanations) which leads to the success of the algorithm. In fact all that knowledge produced by traditional evolutionary algorithms, was created earlier and elsewhere. The code contains the solution, even if the programmer cannot think of the specific answer.
 
-*True evolutinary algorithms require that the program has no goal. In all orther goal-based algorithms the code has implicit knowledge with reach that has come from the programmers mind.*
+*True evolutionary algorithms require that the program has no goal. In all other goal-based algorithms the code has implicit knowledge with reach that has come from the programmers mind.*
 
 ### We do not know how to program evolution or the minds of people
 
@@ -1889,9 +1890,9 @@ Existing algorithms work toward some future that the programmer has implicitly d
 We know that computers can run knowledge-producing programs (for evolution or people's minds), but we do not know how to write the programs yet.
 ```
 
-While evolution and humand minds are [both programmable](#the-universality-of-quantum-computation), we do not know how yet because understand neither [evolutionary origins](#we-do-not-know-how-geochemistry-becomes-biochemistry) or [creativity](#creativity-gives-people-their-ability-to-create-explanatory-knowledge) well enough to [code it](#to-code-is-to-comprehend).
+While evolution and human minds are [both programmable](#the-universality-of-quantum-computation), we do not know how yet because understand neither [evolutionary origins](#we-do-not-know-how-geochemistry-becomes-biochemistry) or [creativity](#creativity-gives-people-their-ability-to-create-explanatory-knowledge) well enough to [code it](#to-code-is-to-comprehend).
 
-*It is technically feasible to write a computer program to produce creative output. This could be in the form of biological simulation, a human mind, or an AGI. We require more knowledge to acheive this in practice.*
+*It is technically feasible to write a computer program to produce creative output. This could be in the form of biological simulation, a human mind, or an AGI. We require more knowledge to achieve this in practice.*
 
 ## Chapter 8 - A window on Infinity
 
@@ -1903,7 +1904,7 @@ Infinity is real because if there is some largest number, you can always add 1 t
 
 There can be finite things, such as numbers. Otherwise the largest number could not have 1 added to it.
 
-*Finitism is refuted by the rule that natural numbers arre obtained by adding 1 to the current number. This applies to any theoretical largest number.*
+*Finitism is refuted by the rule that natural numbers are obtained by adding 1 to the current number. This applies to any theoretical largest number.*
 
 ### Countable infinity
 
@@ -1933,7 +1934,7 @@ Knowledge growth can be infinite because the laws of physics apply everywhere an
 
 [Unlimited](#the-problem-with-finitism) growth of knowledge is possible in the future. It depends on universality in the laws of nature, that allow local symbols to apply to the whole of time and space and to all possible phenomena. It also depends on [people](#people-are-entities-that-create-explanatory-knowledge), who are universal explanatory constructors and who create knowledge and [contain a universal computer](#brains-are-universal-turing-machines).
 
-*Knowledge growth can be infinite because the laws of physics are univeral and people are universal explanatory constructors.*
+*Knowledge growth can be infinite because the laws of physics are universal and people are universal explanatory constructors.*
 
 ### An infinite hotel can be overwhelmed
 
@@ -1963,7 +1964,7 @@ The consideration of other universes with difference properties involves the con
 
 The issue of [fine tuning](#the-problem-with-the-fine-tuning-of-physical-constants) involves infinite sets, and so no [probabilities can be used](#infinite-sets-have-no-probabilities). Hence there is no way to determine the likelihood of our current physical constants because the terms common and uncommon do not apply. So while it is tempting to think that if there is a physical constant range that is friendly for life, then you are more likely to have universes with life in them, this is not the case. You are not more likely, because the sets involved are infinite, and hence the method is wrong.
 
-*In considering infinite universes with differen physical constants, we lose the ability to assign probabilities to the problem. The rearrangement of infinite sets disturbs the probability, making anything as likely as anything else.*
+*In considering infinite universes with different physical constants, we lose the ability to assign probabilities to the problem. The rearrangement of infinite sets disturbs the probability, making anything as likely as anything else.*
 
 ### Infinity does not appear in our explanations
 
@@ -1991,7 +1992,7 @@ If you want to travel one metre, you must take an infinite number of small steps
 Most true things in mathematics have no way for us to follow some process to demonstrate that truth. We cannot ever create proofs for those concepts.
 ```
 
-[Mathematics is the study mathematical truths](#the-problem-with-getting-purity-from-mathematics), where we create [proofs (a type of program)](#proofs-are-computer-programs) to arrive at imperfect conclusions. The number of things that we can create those proofs about is small relative to the total number of mathematic truths. We know that we do not have access to those truths, which are beyond our capacity to prove.
+[Mathematics is the study mathematical truths](#the-problem-with-getting-purity-from-mathematics), where we create [proofs (a type of program)](#proofs-are-computer-programs) to arrive at imperfect conclusions. The number of things that we can create those proofs about is small relative to the total number of mathematical truths. We know that we do not have access to those truths, which are beyond our capacity to prove.
 
 *Godel's incompleteness theorem states that there exist many mathematical truths that cannot be proven.*
 
@@ -2048,7 +2049,7 @@ Proofs tell us about mathematics, and they [depend on our knowledge of physical 
 ### Mathematical proofs depend on physics
 
 ```md
-Mathematic proofs are part of physics not mathematics.
+Mathematical proofs are part of physics not mathematics.
 ```
 
 Whether something in mathematics is true or not is dependent on mathematics, but the proof for whether something is true [depends on the laws of physics](#our-knowledge-of-mathematics-relies-on-our-knowledge-of-physical-reality). Truth is the subject matter of mathematics, not the reward ([mathematicians misconception](#the-problem-with-getting-purity-from-mathematics)).
@@ -2058,12 +2059,12 @@ Whether something in mathematics is true or not is dependent on mathematics, but
 ### Proofs are computer science
 
 ```md
-Mathematic proofs are a branch of computer science. We do not have a perfect foundation for our mathematical understanding.
+Mathematical proofs are a branch of computer science. We do not have a perfect foundation for our mathematical understanding.
 ```
 
 That [proofs are based in physics](#mathematical-proofs-depend-on-physics) means that they are not a branch of mathematics. They are a part of computer science.
 
-*Proofs, being physical are a branch of computer science, not mathematics. Seekng a perfect foundation for mathematics is a form of [justificationism](#the-problem-with-justificationism).*
+*Proofs, being physical are a branch of computer science, not mathematics. Seeking a perfect foundation for mathematics is a form of [justificationism](#the-problem-with-justificationism).*
 
 ### The purpose of mathematics is to seek good explanations
 
@@ -2103,7 +2104,7 @@ Interest is tied to what we can solve in the long run. If no person is intereste
 
 (TODO make this clearer. Ch8 II, 1:06:00)
 
-[Fallabalism](#fallabalism) shows that we can be wrong about what is interesting. Three things follow from this:
+[Fallibilism](#fallibilism) shows that we can be wrong about what is interesting. Three things follow from this:
 
 1. Inherently insoluble problems are inherently uninteresting.
 2. In the long run, what is interesting and what is boring is not a matter of subjective taste but an objective fact.
@@ -2119,7 +2120,7 @@ For example, the fine tuning problem is interesting, and hence soluble, though w
 Humans cause climate change, but the solution is not to put down our tools. We should increase our effort to make as much knowledge as possible. That is our best chance at creating a solution to the problem. Slowing production will slow knowledge production and the solution may not be created soon.
 ```
 
-Given that [we cannot predict what new knowledge we will create](#knowledge-creation-cannot-be-predicted), we should not try to solve problems by slowing progress. The climate change caused by humans [can be solved](#problems-are-inevitable-problems-are-soluble) if we try. This involves creating new knowledge for how to solve it and implementing it. For climate change if there is a choice between accelerating progress and slowing progress, we shoulkd always choose the former. Even if the short term consequence is that it produces more CO2 emissions. Otherwise we hamper the ability to solve the issue.
+Given that [we cannot predict what new knowledge we will create](#knowledge-creation-cannot-be-predicted), we should not try to solve problems by slowing progress. The climate change caused by humans [can be solved](#problems-are-inevitable-problems-are-soluble) if we try. This involves creating new knowledge for how to solve it and implementing it. For climate change if there is a choice between accelerating progress and slowing progress, we should always choose the former. Even if the short term consequence is that it produces more CO2 emissions. Otherwise we hamper the ability to solve the issue.
 
 *Anthropocentric climate change due to high CO2 is real. We can solve it and should try to increase the productivity of society. This seems at odds if that increases CO2 production, but because we cannot predict what the solution will be must choose progress otherwise the necessary knowledge might not be created.*
 
@@ -2141,7 +2142,7 @@ High global temperatures can be solved by doing things to actively lower the tem
 
 We know of some technologies can reduce the temperature on Earth, such as putting mirrors in space, or spraying particles in the atmosphere or capturing CO2 directly.
 
-*Global warming can be adressed by active global cooling through geoengineering.*
+*Global warming can be addressed by active global cooling through geoengineering.*
 
 ### New knowledge is required for global-cooling technology
 
@@ -2201,7 +2202,7 @@ If someone invents a technology (phones or social media) that billions of people
 If powerful people have bad ideas, combat this with good ideas not force.
 ```
 
-If there is a problem in society it can be solved with good ideas. It is not good to try to use force to get rid of the people behind bad ideas. So if there is a [wealthy technology creator](#technology-causes-inequality-and-that-is-ok), rather than seeing this as a bad thing and forcefully confiscating their wealth, let them (or come up with a good idea of how to) use that wealth to create more valuable technolgies for the world.
+If there is a problem in society it can be solved with good ideas. It is not good to try to use force to get rid of the people behind bad ideas. So if there is a [wealthy technology creator](#technology-causes-inequality-and-that-is-ok), rather than seeing this as a bad thing and forcefully confiscating their wealth, let them (or come up with a good idea of how to) use that wealth to create more valuable technologies for the world.
 
 *Bad ideas are better addressed by good ideas not force.*
 
@@ -2221,7 +2222,7 @@ If there is a world ending technology, then we could invent a way to save us fro
 We do not passively receive harmful new technology. We can act to address new harms that we face.
 ```
 
-New technology can cause harm, but society is not like a game of Russian Roulette. We can actively choose what to do, rather than passively receiving an outcome. Attention can be redirected to find [real solutions to new threats](#the-problem-with-the-vulnerable-world-hypothesis) as they arise. So it cannot be claimed that the trigger-pulling processs (of knowledge creation) leads to a lethal bullet (a threat without solution) without events altering the bullet or its trajectory (there are other outcomes). For example an inventor of world-ending technology (grey goo nanomaterial or designer viruses at home) may be using technology that many other people can use to mitigate that threat. We survive or die based on what we choose to work on, not the roll of dice.
+New technology can cause harm, but society is not like a game of Russian Roulette. We can actively choose what to do, rather than passively receiving an outcome. Attention can be redirected to find [real solutions to new threats](#the-problem-with-the-vulnerable-world-hypothesis) as they arise. So it cannot be claimed that the trigger-pulling process (of knowledge creation) leads to a lethal bullet (a threat without solution) without events altering the bullet or its trajectory (there are other outcomes). For example an inventor of world-ending technology (grey goo nanomaterial or designer viruses at home) may be using technology that many other people can use to mitigate that threat. We survive or die based on what we choose to work on, not the roll of dice.
 
 *Creating new knowledge is not a game of Russian Roulette. We can take actions so solve problems as they arise. The possible outcomes for the world are not yet known, let alone their probabilities.*
 
@@ -2241,9 +2242,9 @@ The paperclip AI is very intelligent but not a person with creativity. It choose
 It is incorrect to only expect good things to happen. Problems are inevitable because everything can always have something wrong with it.
 ```
 
-Blind optimism is a stance toward the future, it consists of proceeding as if one knows that the bad outcomes will not happen. Knowing that [problemss are soluble](#problems-are-inevitable-problems-are-soluble), does not reduce the number of problems in the future because new (different) problems arise.
+Blind optimism is a stance toward the future, it consists of proceeding as if one knows that the bad outcomes will not happen. Knowing that [problems are soluble](#problems-are-inevitable-problems-are-soluble), does not reduce the number of problems in the future because new (different) problems arise.
 
-*The future cannot be expected to be exclusively good because new problems are a consequence of fallabalism.*
+*The future cannot be expected to be exclusively good because new problems are a consequence of fallibilism.*
 
 ### Blind pessimism (the precautionary principle)
 
@@ -2273,7 +2274,7 @@ Making progress is required for good things to happen.
 
 The upside from new knowledge creation is greater than the downside. Disasters are problems awaiting solutions that come from creating new knowledge, which [depends on the existing knowledge](#new-knowledge-accrues-as-a-toolset-for-solving-problems) and [wealth](#wealth). The capacity to solve new problems increases non-linearly with the amount of existing knowledge. So we must work hard to create as much new knowledge as possible to have the largest problem solving toolset to draw from in the future. For example, many cities were lost because of the inventions of fire or the sword, and none would have been saved by being [more cautious about creating knowledge](#blind-pessimism-the-precautionary-principle). Hence those that argue the same today, that "this time it is different" are ignoring that we have encountered problems before, and each time we have solved them.
 
-*Creating knowedge is the mechanism to mitigate possible bad things from happening. The harm that can flow from any knowledge created is finite. The good that can flow is infinite.*
+*Creating knowledge is the mechanism to mitigate possible bad things from happening. The harm that can flow from any knowledge created is finite. The good that can flow is infinite.*
 
 ### Aliens are unlikely to need our physical resources
 
@@ -2283,7 +2284,7 @@ Aliens capable of moving in space would likely have advanced technology. They wo
 
 Aliens capable of interstellar travel are unlikely to want anything that we have. We are not a valuable prey to be targeted because they would be a civilisation capable of transforming matter and would have no need for our resources.
 
-*The capacity for interstellar travel is likely correlated with the capacity for avanced matter transformation and resource creation capacity. Earth is unlikely to provide uniquely available resources.*
+*The capacity for interstellar travel is likely correlated with the capacity for advanced matter transformation and resource creation capacity. Earth is unlikely to provide uniquely available resources.*
 
 ### Societies with advanced technologies would have advanced morality
 
@@ -2329,12 +2330,12 @@ Advanced aliens would have the ability to teach their own young and to program c
 ### Decisions in the near future can be based on educated guesses
 
 ```md
-It makes sense for short term decisions to use probabalistic reasoning.
+It makes sense for short term decisions to use probabilistic reasoning.
 ```
 
 If a decision has to be made in minutes to days, it is unlikely that new knowledge will be created that will change the landscape of the decision. Hence it is appropriate to use [bayesian reasoning](#the-problem-with-bayesianism) in order to choose what is the best option out of a selection of options. However decisions over years cannot be made this way, because in the interval there is a chance that new knowledge may be created and so it is less appropriate to extrapolate and guess. This is because [knowledge creation is unpredictable](#knowledge-is-created-and-is-unpredictable).
 
-*Short term reasoning can be probabalistic because the possible outcomes and their likelihoods can be estimated. However if the interval is long enough that new knowledge may be created, this approach cannot work.*
+*Short term reasoning can be probabilistic because the possible outcomes and their likelihoods can be estimated. However if the interval is long enough that new knowledge may be created, this approach cannot work.*
 
 ### We live in a time of unprecedented safety with respect to some threats
 
@@ -2394,7 +2395,7 @@ The main way that errors manifest in human society is in [explanations](#explana
 Society has many institutions that have preserved the ability to correct errors. We should take care to not dismantle old institutions rashly or carelessly.
 ```
 
-[We should seek out better explanatatory knowledge](#we-should-seek-out-better-explanations) because [evils are caused by insufficient knowledge](#the-principle-of-optimism). Therefore, things that help this process of [error correction](#error-correction) are critical, and this could include a large number of structures and institutions in society. Dismantling those things could undermine the ability to act morally (e.g., dismantle structures that society uses to make moral progress).
+[We should seek out better explanatory knowledge](#we-should-seek-out-better-explanations) because [evils are caused by insufficient knowledge](#the-principle-of-optimism). Therefore, things that help this process of [error correction](#error-correction) are critical, and this could include a large number of structures and institutions in society. Dismantling those things could undermine the ability to act morally (e.g., dismantle structures that society uses to make moral progress).
 
 *Systems and structures that assist in error correction are critical for objective moral progress. Therefore we should be careful and cautious interfering with old societal institutions.*
 
@@ -2424,7 +2425,7 @@ Decisions about policies requires a culture of criticism in which good explanati
 Good democracy is about replacing a bad ruler without causing violence.
 ```
 
-Rather than how to install new rulers, a good democracy is good at removing rulers without violence. Creating new [knowledge is about error correction](#error-correction), similarly, detecting and correcting errors can be applied to politics. A good political system has the ability to detect and pursuade others that a given leader is bad, and to remove them without violence if they are.
+Rather than how to install new rulers, a good democracy is good at removing rulers without violence. Creating new [knowledge is about error correction](#error-correction), similarly, detecting and correcting errors can be applied to politics. A good political system has the ability to detect and persuade others that a given leader is bad, and to remove them without violence if they are.
 
 *Democracy is about non-violent change of leadership.*
 
@@ -2434,7 +2435,7 @@ Rather than how to install new rulers, a good democracy is good at removing rule
 People can achieve common goals without resorting to violence and theft of others. Obstacles they face can be solved.
 ```
 
-Libertarianism is about moving toward systems that do not require forceful or violent actions against other people. Opponents to libertarianism are [pessimistic rather than optimistic about people](#the-principle-of-optimism) and about what reason and knowledge can accomplish. For example, if libraries are important for people then it should be possible to pursuade others to build one without resorting to violence and forceful taxation by the government. The private space industry is a good example of nonviolent voluntary action by people for a common goal that some thought was only possible by government programs like NASA. People are fundamentally capable of solving problems to achieve goals and it may be that infrastructure like roads and welfare can be built non-violently. Solving problems non-violently [is possible, given the right knowledge](#anything-that-is-physically-possible-is-achievable-given-the-right-knowledge) of how to do that.
+Libertarianism is about moving toward systems that do not require forceful or violent actions against other people. Opponents to libertarianism are [pessimistic rather than optimistic about people](#the-principle-of-optimism) and about what reason and knowledge can accomplish. For example, if libraries are important for people then it should be possible to persuade others to build one without resorting to violence and forceful taxation by the government. The private space industry is a good example of non-violent voluntary action by people for a common goal that some thought was only possible by government programs like NASA. People are fundamentally capable of solving problems to achieve goals and it may be that infrastructure like roads and welfare can be built non-violently. Solving problems non-violently [is possible, given the right knowledge](#anything-that-is-physically-possible-is-achievable-given-the-right-knowledge) of how to do that.
 
 *Libertarianism is about systems of government without force or violence. The power of people to solve problems by creating explanatory knowledge makes this framework viable.*
 
@@ -2446,7 +2447,7 @@ You cannot predict that "in the future something will happen". Between now and t
 
 The future cannot be predicted at some threshold. [If new and relevant knowledge could be created, then the prediction is not possible](#decisions-in-the-near-future-can-be-based-on-educated-guesses). For example, in predicting the future for the Sun we cannot know what knowledge will be created that we could use to modify the sun. Hence we cannot predict that the Sun will explode because humans will be involved (we can only prophesy). Most predictions that use the term future are far away enough that relevant knowledge could be created. The nature of this knowledge is not known in advance, so probabilities are not possible. Thus, we cannot predict the future and therefore should not attempt to do so.
 
-*Knowledge can disrupt the predictions we make and cannot be accounted for. If knowledge can theoretically be made before the event, then a probabalistic prediction is not possible.*
+*Knowledge can disrupt the predictions we make and cannot be accounted for. If knowledge can theoretically be made before the event, then a probabilistic prediction is not possible.*
 
 ### Problem solving requires interest in the problem, not predictions
 
@@ -2466,19 +2467,19 @@ When faced with problems, we should make room for the possibility of things chan
 
 When faced with an immediate problem, the nature of the solution cannot be predicted. Rather than predicting, the best strategy is to create conditions that allow new knowledge to flourish. Ultimately the problem [is caused by insufficient knowledge](#the-principle-of-optimism). A lot can change in the future and if progress is to be made, [the knowledge and discoveries will be unpredictable](#you-cannot-predict-the-future). Progress cannot be made unless someone is [interested in and open to those possibilities](#problem-solving-requires-interest-in-the-problem-not-predictions).
 
-For example consider the parable of optimism about a tyrannical king who sentences a prisoner to death. The prisoner bargains that he be set free if he can make the King's horse talk within a year. When asked why, the prisoner states that he does not know what the future holds and that The king may die, he may die, or the horse may talk. He knows that the problem is ulimately caused by insufficient knowledge, rather than prison bars, the King or the horse. He made persuade the King to appeal the law he broke, or he may learn a conjuring trick to make the horse appear to talk, or he may escape, or he may please the Kind in some other way. The list is infinite, but anything that is possible is [realistically achieveable with the right knowledge](#anything-that-is-physically-possible-is-achievable-given-the-right-knowledge).
+For example consider the parable of optimism about a tyrannical king who sentences a prisoner to death. The prisoner bargains that he be set free if he can make the King's horse talk within a year. When asked why, the prisoner states that he does not know what the future holds and that The king may die, he may die, or the horse may talk. He knows that the problem is ultimately caused by insufficient knowledge, rather than prison bars, the King or the horse. He made persuade the King to appeal the law he broke, or he may learn a conjuring trick to make the horse appear to talk, or he may escape, or he may please the Kind in some other way. The list is infinite, but anything that is possible is [realistically achievable with the right knowledge](#anything-that-is-physically-possible-is-achievable-given-the-right-knowledge).
 
 *Optimism is about knowing that the future holds change, and being open to that.*
 
 ### That previous enlightenments have been stopped is a great shame
 
 ```md
-We shoud take it personally that previous cultures of creativity and criticism have been eradicated. For if they had continued, society would have progressed, and perhaps so much that we would know how to prevent death.
+We should take it personally that previous cultures of creativity and criticism have been eradicated. For if they had continued, society would have progressed, and perhaps so much that we would know how to prevent death.
 ```
 
-There have been a number of cultures that have celebrated the idea of criticism. These enlightemnents were silenced by wars and religions. We should be affronted at this idea, for we may have [solved great problems including death](#the-principle-of-optimism) and be living forever if it were not for them. Hence, today when people promote ideas [counter to criticism](#the-most-moral-act-is-to-preserve-the-means-for-error-correction), we should be compelled to action, for the impact on us and future generations could be large.
+There have been a number of cultures that have celebrated the idea of criticism. These enlightenments were silenced by wars and religions. We should be affronted at this idea, for we may have [solved great problems including death](#the-principle-of-optimism) and be living forever if it were not for them. Hence, today when people promote ideas [counter to criticism](#the-most-moral-act-is-to-preserve-the-means-for-error-correction), we should be compelled to action, for the impact on us and future generations could be large.
 
-*Those who caused the previous enlightements to fail stopped the progress of knowledge which may have led to a great many advancements. We may have cured even death.*
+*Those who caused the previous enlightenments to fail stopped the progress of knowledge which may have led to a great many advancements. We may have cured even death.*
 
 ### Philosophy has an impact
 
@@ -2518,7 +2519,7 @@ If we [stop progress out of fear of a causing a doomsday](#the-problem-with-the-
 No knowledge can be justified as being true to the point where we should believe it.
 ```
 
-There can be no foundational justified piece of knowledge upon which all other knowledge is built. For that piece of knowledge itself is would need justification. Instead, all [all knowledge could be false in some way](#fallabalism).
+There can be no foundational justified piece of knowledge upon which all other knowledge is built. For that piece of knowledge itself is would need justification. Instead, all [all knowledge could be false in some way](#fallibilism).
 
 *Justified true beliefs are not possible because justifications recursively require justification.*
 
@@ -2576,9 +2577,9 @@ Free speech may be shut down by the government, or by cultural pressure. To canc
 We expect theories to be replaced by better ones, so we could call theories misconceptions. This might to encourage people to look for the new theories.
 ```
 
-Every theory is fallable, and so it could be useful to call them misconceptions to encourage this way of thinking. Our understanding moves from [useful misconception](#wrong-theories-can-be-useful) to ever-better misconception. This woud remind people that science claims neither [infallibility](#fallabalism) (all theories have some error) or [finality](#better-things-always-exist) (there are always more theories to discover). Einstein's misconception about gravity replaced Newton's, which replaced Kepler's yet each was useful along the way.
+Every theory is fallible, and so it could be useful to call them misconceptions to encourage this way of thinking. Our understanding moves from [useful misconception](#wrong-theories-can-be-useful) to ever-better misconception. This would remind people that science claims neither [infallibility](#fallibilism) (all theories have some error) or [finality](#better-things-always-exist) (there are always more theories to discover). Einstein's misconception about gravity replaced Newton's, which replaced Kepler's yet each was useful along the way.
 
-*The prospective naming of theories as misconceptions may be useful to increase awareness of fallabalist-based epistemology.*
+*The prospective naming of theories as misconceptions may be useful to increase awareness of fallibilist-based epistemology.*
 
 ### Constructor theory may bring morality into the domain of physics
 
@@ -2608,7 +2609,7 @@ When you communicate an idea, the audience will not perfectly understand the ide
 When you have learned something, the way it exists in your mind is the same as the way it exists in the mind of the inventor.
 ```
 
-If you study a theory and understand it thoroughly, then you have gone through the same process as the original creator of the theory. You have [created and criticised the idea in your mind](#a-student-is-not-a-passive-recipient-of-knowledge). So if you undestand general relativity, then you are as good as Einstein in understanding that theory.
+If you study a theory and understand it thoroughly, then you have gone through the same process as the original creator of the theory. You have [created and criticised the idea in your mind](#a-student-is-not-a-passive-recipient-of-knowledge). So if you understand general relativity, then you are as good as Einstein in understanding that theory.
 
 *A learned idea is equivalent to a new idea. Both have been created and criticised in the mind.*
 
@@ -2640,7 +2641,7 @@ Knowledge [begins by creatively generating a new idea](#knowledge-is-created-in-
 Experiments may have problems, but by solving the problems you can then use the experiment as you intended.
 ```
 
-The Duhem-Quine thesis is that when an experiment is conducted, and the result disagress with some theory, then it is not logically the case that the theory must be false. Logically it can always be that the experiment was conducted badly. So some conclude that there is no such thing as a [crucial test](#there-are-two-types-of-tests-crucial-and-non-crucial), because it might not be the theory that is false, it might just be the experiment that had some problem. This is false because you can repeat the experiment in many different ways to eliminite different problems with the experiment, thereby getting on with the crucial test.
+The Duhem-Quine thesis is that when an experiment is conducted, and the result disagrees with some theory, then it is not logically the case that the theory must be false. Logically it can always be that the experiment was conducted badly. So some conclude that there is no such thing as a [crucial test](#there-are-two-types-of-tests-crucial-and-non-crucial), because it might not be the theory that is false, it might just be the experiment that had some problem. This is false because you can repeat the experiment in many different ways to eliminate different problems with the experiment, thereby getting on with the crucial test.
 
 *The duhem-quine thesis is correct, but what follows from it is not. An experimental problem can be resolved, allowing a crucial test to proceed.*
 
@@ -2657,10 +2658,10 @@ The multiverse theory states that all things that can happen do. This is the man
 ### Multiverse theory is falsifiable
 
 ```md
-If experiments about particles showed them doing different things, then the muliverse theory would be wrong. This shows that while we can't go to other universes, our experiments can test the theory.
+If experiments about particles showed them doing different things, then the multiverse theory would be wrong. This shows that while we can't go to other universes, our experiments can test the theory.
 ```
 
-Some argue that you cannot test multiverse theory. However, when looking at quantum slit experiments, the observation of all photons hitting the same point rather than a distribution would falsify the theory. Multiverse theory explains that all possible paths for the photons are taken, and therefore you should expect a disribution. Hence the theory is falsifiable.
+Some argue that you cannot test multiverse theory. However, when looking at quantum slit experiments, the observation of all photons hitting the same point rather than a distribution would falsify the theory. Multiverse theory explains that all possible paths for the photons are taken, and therefore you should expect a distribution. Hence the theory is falsifiable.
 
 *Multiverse theory is falsifiable. If there was a lack of distribution of particles on the plate of a double slit experiment, this would falsify the theory.*
 
@@ -2682,7 +2683,7 @@ Particles interact according to rules, they don't move randomly. They may seem r
 
 There is no objective randomness because [the multiverse is deterministic](#quantum-theory-is-fully-deterministic). Subjective randomness exists, where we do not know enough to predict something. For example, though a particle takes all paths, we don't know which path we end up experiencing.
 
-*Random processes do not exist because the multiverse deterministically unfolds all possibilities. Knowledge of which possibility is experienced is diffcult, but not random.*
+*Random processes do not exist because the multiverse deterministically unfolds all possibilities. Knowledge of which possibility is experienced is difficult, but not random.*
 
 ### Science relies upon the features in the criterion of demarcation
 
@@ -2697,10 +2698,10 @@ Falsifiability and testability are required for [good science](#good-science). T
 ### Science is not about experiments
 
 ```md
-Science is about getting expanations not doing experiments. Plenty of experiments that don't involve explanations are possible (but not useful).
+Science is about getting explanations not doing experiments. Plenty of experiments that don't involve explanations are possible (but not useful).
 ```
 
-[Science is about explanations](#good-science). Experimental testing is not the primary method for finding fault with theories. The orverwhelming majority of theories are rejected as [bad explanations](#good-explanations). Experiments are about [choosing between explanations, or at least discovering errors in existing explanations](#there-are-two-types-of-tests-crucial-and-non-crucial).
+[Science is about explanations](#good-science). Experimental testing is not the primary method for finding fault with theories. The overwhelming majority of theories are rejected as [bad explanations](#good-explanations). Experiments are about [choosing between explanations, or at least discovering errors in existing explanations](#there-are-two-types-of-tests-crucial-and-non-crucial).
 
 *Science is the pursuit of good explanations.*
 
@@ -2731,7 +2732,7 @@ The question "How do you know that falsification criterion is actually true" is 
 Science can rule out apparently bad theories. It can't "rule in" good theories.
 ```
 
-Science does not find theories that are true or probably true, it is about finding ideas about the errors in our explanations of things. Conjecture of apparent errors and deficiencies is the only process at work in science. There is no guaranteed method for finding good theories. For all methods themselves are theories that could be wrong, even [falisification theory](#falsification-theory-cannot-be-labelled-as-true).
+Science does not find theories that are true or probably true, it is about finding ideas about the errors in our explanations of things. Conjecture of apparent errors and deficiencies is the only process at work in science. There is no guaranteed method for finding good theories. For all methods themselves are theories that could be wrong, even [falsification theory](#falsification-theory-cannot-be-labelled-as-true).
 
 *Science is about error detection, not arriving at final theories.*
 
@@ -2786,7 +2787,7 @@ Like two waves cancelling, two [particles from different universes](#photons-are
 
 *Particles from different universes with opposite phases can destructively interfere..*
 
-### Photelectric effect shows photons are particles
+### Photoelectric effect shows photons are particles
 
 ```md
 Photons interact individually as particles, not as a sum-of-all-parts like waves do. This can be shown when
@@ -2795,7 +2796,7 @@ many low energy photons cannot something that a single high energy photon can.
 
 Shining a dim blue light cause electrons to be produced from a surface, when a bright red light does not.
 This refutes the wave model because it is the energy of the particles (blue photons) that is important,
-not the total energy delivered (bightness of the light). They [cannot be both particles and waves](#things-cannot-be-waves-and-particles).
+not the total energy delivered (brightness of the light). They [cannot be both particles and waves](#things-cannot-be-waves-and-particles).
 
 *The photoelectric effect shows energy threshold quantisation not energy summation. It demonstrates that photons are particles and refutes the wave model.*
 
@@ -2816,7 +2817,7 @@ In an interferometer with a half mirror, light passes through two paths and join
 Interference is when a universe combines two similar universes, where the only difference is usually a single particle.
 ```
 
-Intereference is the rare example of a situation in which a single photon [differentiates two identical universes so they are different](#our-universe-differentiates-and-rejoins) and then later causes them to be the same. The measure of universes where the photons have interfered increases.
+Interference is the rare example of a situation in which a single photon [differentiates two identical universes so they are different](#our-universe-differentiates-and-rejoins) and then later causes them to be the same. The measure of universes where the photons have interfered increases.
 
 *Interference is the rejoining of two universes that have become very subtly different.*
 
@@ -2829,7 +2830,7 @@ Universes are infinite, which means there were infinite at the start and there a
 Universes differentiate rather than divide because there is always an infinite number of universes.
 There are not more universes now than there were previously. This relates to [probability not applying to infinity](#infinite-sets-have-no-probabilities). When a particle experiment plays out, it is the measure of
 universes that changes. For actions that we consider to be more likely, there are a greater measure of
-universes where this eventuality has occured. Hence, [interference](#interference-is-when-a-particle-combines-two-universes) is not splitting and rejoining of universes.
+universes where this eventuality has occurred. Hence, [interference](#interference-is-when-a-particle-combines-two-universes) is not splitting and rejoining of universes.
 
 *The quantity of universes is infinite and does not change. Universes change, and the measure of universes
 with certain features increases and decreases.*
@@ -2898,7 +2899,7 @@ If two universes are almost the same, they can combine to become one.
 
 If two universes only differ in a very small way, then a particle from each universe can interfere and eliminate all differences between the two universes. Thus [interference](#interference-is-when-a-particle-combines-two-universes) makes two difference universes the same.
 
-*Particle interference makes two near-identical non-fungible universes idenctical and fungible.*
+*Particle interference makes two near-identical non-fungible universes identical and fungible.*
 
 ### A measure is a portion of an infinite set
 
@@ -3010,7 +3011,7 @@ There are infinite universes, and they cannot be counted. WHen a particle can ta
 
 In the multiverse there are an infinite number of universes. The number does not grow, where one becomes two, rather they differentiate, so two become two. So the term 'splits' is misleading, the word differentiates is better to describe what happens when a particle can take one of two options. The universes are an [uncountable infinity](#uncountable-infinity) in the same way you cannot count all the points on a line between 0.0 and 1.0. Prior to the [quantum event](#quantum-events) there is a [measure](#a-measure-is-a-portion-of-an-infinite-set) of universes. After the quantum event a portion of universes exist according to the [likelihood](#quantum-probability) of what is happening physically, such as a 70:30 silver mirror the measures are different.
 
-*The multivers consists of infinite universes which differentiate when quantum events occur.*
+*The multiverse consists of infinite universes which differentiate when quantum events occur.*
 
 ### The experience of being a multiverse object is the experience we already have
 
@@ -3166,7 +3167,7 @@ An electron existing as an [ink blot](#a-particle-behaves-like-an-ink-blot) can 
 The multiverse can be harnessed to outsource computations that all happen at the same time.
 ```
 
-The histories of particles from other universes are used to perform the computation in a quantum computer. The [flow of information](#information-flow) is not confined to a single history. In [Shor's algorithm](#shors-algorithm) separate computations are initiated in an infinite different fungible universes. The fact that a particle has [infinite](#countable-infinity) possible [universes that it can occupy](#photons-are-a-multiverse-object) provides a mechanism for vast computation to be perfrmed in parallel.
+The histories of particles from other universes are used to perform the computation in a quantum computer. The [flow of information](#information-flow) is not confined to a single history. In [Shor's algorithm](#shors-algorithm) separate computations are initiated in an infinite different fungible universes. The fact that a particle has [infinite](#countable-infinity) possible [universes that it can occupy](#photons-are-a-multiverse-object) provides a mechanism for vast computation to be performed in parallel.
 
 *Quantum parallelism is when different histories of computation combine.*
 
@@ -3191,7 +3192,7 @@ There are two universes, one for each state that can be held. Those universes ca
 Particles that exist in other universes can be combined with particles in our universe. Putting information on those particles can allow algorithms to do multiple things simultaneously.
 ```
 
-The basis of the algorithm is to cause the information-carrying variables in some of the [qubits](#qubit) to acquire both their values simultaneously. Consequently, regarding those qubits as a register, the number of seperate instances of the register as a whole is large (for n qubits, registers is 2^n). Then for a period classic computations are formed, where waves of differentiation spread to some of the other qubits. Hence information is processed separately in each of the vast numbers of autonomous histories. Finally an interference process involving all the affected qubits combines the information in those histories into a single history. Because of the intervening computation which has processed the information, the final state is not the same as the initial one. The information is some function of the original information.
+The basis of the algorithm is to cause the information-carrying variables in some of the [qubits](#qubit) to acquire both their values simultaneously. Consequently, regarding those qubits as a register, the number of separate instances of the register as a whole is large (for n qubits, registers is 2^n). Then for a period classic computations are formed, where waves of differentiation spread to some of the other qubits. Hence information is processed separately in each of the vast numbers of autonomous histories. Finally an interference process involving all the affected qubits combines the information in those histories into a single history. Because of the intervening computation which has processed the information, the final state is not the same as the initial one. The information is some function of the original information.
 
 *Connected information encoded units (qubits) can be caused to interfere in a controlled way. This allows the number of concurrent computations to rise exponentially (2^n) with the qubit count.*
 
@@ -3203,7 +3204,7 @@ Anything can spontaneously happen, but a greater measure of universes are 'norma
 
 Given that [anything is possible](#everything-that-can-happen-does-happen-in-the-multiverse), you could have a rabbit formed out of a pot of boiling water. As each particle happens to change in exactly the right way at the right time. This involves a large number of particles, and so there is a smaller [measure](#a-measure-is-a-portion-of-an-infinite-set) of universes where this happens than where it happens for a mouse. In fact it is far more likely for a small number of particles in your mind to change such that you have a memory of a rabbit forming from the water, but the water did not change. So a hallucination occurs in a greater measure of universes. Greater still is the measure of universes where none of this happened and you simply made tea.
 
-*Spontaneous events occur in smaller measure of the universe. An explanation of those events involves a description of all the possible events also occuring in the multiverse.*
+*Spontaneous events occur in smaller measure of the universe. An explanation of those events involves a description of all the possible events also occurring in the multiverse.*
 
 ### People become more alike over time
 
@@ -3225,7 +3226,7 @@ Postmodern philosophy is an attack on speaking clearly about philosophy.
 
 Postmodern philosophy is characterised by the use of jargon in a way that seeks to obscure meaning. Terms are borrowed from other hard sciences and are used in ways that differ from their meanings used elsewhere.
 
-*Sokal published a parody paper in a postmoder journal to illuminate the problem with postmodern philosophy. It was published without being identified as a hoax.*
+*Sokal published a parody paper in a postmodern journal to illuminate the problem with postmodern philosophy. It was published without being identified as a hoax.*
 
 ### The rise of the spread of bad ideas
 
@@ -3260,7 +3261,7 @@ Science currently focuses on the instruments and doesn't seek to understand why.
 ### Doing philosophy
 
 ```md
-Doing philosphy is being aware of what you think and why.
+Doing philosophy is being aware of what you think and why.
 ```
 
 Everyone has a philosophy (like [I don't need philosophy](#the-problem-with-choosing-science-and-rejecting-philosophy)). Doing philosophy is bringing that philosophy that you have into your consciousness, and illuminating it so that you know what you think any given topic and why.
@@ -3277,7 +3278,7 @@ False philosophical theories (e.g. [empiricism](#the-problem-with-empiricism), [
 
 Bad philosophy in some way prevents criticism and in some way prevents new knowledge from being created. [Relativism](#the-problem-with-relativism) is an example, because there is no need to find truth because there is no absolute truth (this is a problem because it implies there is no point to debate, because everyone has their own subjective truth). University philosophy can be bad philosophy because it directs people to [original texts](#reading-original-texts-should-not-be-the-default-to-learn-about-philosophy) rather than latest editions of summaries of theories (this is a problem because it obscures truth and makes it hard to solve problems) and is more akin to history.
 
-*False philosophy is honsetly seeking truth, but failing. Bad philosophy is dishonestly representing in a misleading way what you thought was truth.*
+*False philosophy is honestly seeking truth, but failing. Bad philosophy is dishonestly representing in a misleading way what you thought was truth.*
 
 ### People are flows of information that knowledge can grow along
 
@@ -3287,7 +3288,7 @@ People are something that can arise in the universe. They can do anything that i
 
 People are emergent quasi-autonomous flows of information upon which knowledge grows.
 
-Quasi-autonomous (not compeletely free to disobey laws of physics and fly), because we can create knowledge about things that we are interested. There are a greater [measure](#a-measure-is-a-portion-of-an-infinite-set) of universes where we do things that we like doing (because we have routines and preferences for them).
+Quasi-autonomous (not completely free to disobey laws of physics and fly), because we can create knowledge about things that we are interested. There are a greater [measure](#a-measure-is-a-portion-of-an-infinite-set) of universes where we do things that we like doing (because we have routines and preferences for them).
 
 [Flow of information](#information-flow) because we affect things in a direction. [Knowledge](#knowledge) is that thing which tends to remain once it is there.
 
@@ -3339,7 +3340,7 @@ Idea: Physical variables of particles don't have numerical values, they are matr
 
 Modern understanding: The matrices are real, but each value represents the reality of a different universe in the multiverse.
 
-Error: Observations you make don't change the probabilites.
+Error: Observations you make don't change the probabilities.
 
 *Heisenberg placed importance on the observer and their role in determining particle behaviour, rather than seeing how all his predicted variables were real but in different universes in the multiverse.*
 
@@ -3367,7 +3368,7 @@ A simple rule was discovered that let you predict what particle experiments woul
 
 A [rule of thumb](#the-problem-with-parochialism) was discovered that could be applied to [schrodinger](#modern-understanding-of-schrodingers-mistake) and [heisenberg's](#modern-understanding-of-heisenbergs-mistake) equations to get the same predictions and which matched experiments. "Whenever a measurement is made, all the histories but one cease to exist. The surviving one is chosen at random with the probability of each possible outcome being equal to measure of all the histories in which that outcome occurs.". Rather than try to understand why this rule of thumb worked, this caused the scientific community to retreat into [instrumentalism](#the-problem-with-instrumentalism).
 
-*A parochial explanation for Schrodinger and Heisenbergs findings contributed to the bad philosophy of instrumentalism seen among some physicists today.*
+*A parochial explanation for Schrodinger and Heisenberg's findings contributed to the bad philosophy of instrumentalism seen among some physicists today.*
 
 ### The problem with behaviourism in psychology
 
@@ -3391,7 +3392,7 @@ These studies are examples where the goal is to search for [correlations](#the-p
 
 Consider a study of the genetic heritability of traits where one defines the heritability of a trait as its degree of statistical correlation with how genetically related the people are. According to this idea, one would have presumed in the past that being a slave was a heritable trait in America. This is a bad study because it finds correlations without explanations.
 
-Or another study that shows that happiness is 90% heritable. However this has two problems. First, due to the problem with [behaviourism](#the-problem-with-behaviourism-in-psychology), you cannot know if the people in the study are truly happy. Second, the genes could be causing any number of other factors that are not directly causing happiness. The genes found could be for facial bone shape that made people be called beautiful by others and receiving positive social interactions, thus leading to happiness. The consequence of the study might be to give up on trying to make people happy, however this would be false because you could change factors about how society perceives faces, and that could increse happiness.
+Or another study that shows that happiness is 90% heritable. However this has two problems. First, due to the problem with [behaviourism](#the-problem-with-behaviourism-in-psychology), you cannot know if the people in the study are truly happy. Second, the genes could be causing any number of other factors that are not directly causing happiness. The genes found could be for facial bone shape that made people be called beautiful by others and receiving positive social interactions, thus leading to happiness. The consequence of the study might be to give up on trying to make people happy, however this would be false because you could change factors about how society perceives faces, and that could increase happiness.
 
 *Statistical correlations cannot inform what causes what, but one adds the inductivist equivocation that "they can be suggestive though".*
 
@@ -3413,9 +3414,9 @@ We have not yet created explanatory knowledge for qualia. So we cannot know the 
 It should be easy to point the blame clearly and cleanly if something bad is done by someone or some group in government
 ```
 
-If somethign bad happens in government, the entity that made that decision or action should be easy to identify. Whether that is a person or an entire party, the ability to hold to account is important because action can be taken to remove that entity from the system. This corrects the error in the system (a bad actor).
+If something bad happens in government, the entity that made that decision or action should be easy to identify. Whether that is a person or an entire party, the ability to hold to account is important because action can be taken to remove that entity from the system. This corrects the error in the system (a bad actor).
 
-*Accountability allows for error artribution, which allows for error correction. This is important for a government.*
+*Accountability allows for error attribution, which allows for error correction. This is important for a government.*
 
 ### Making the best decision is not about selecting the best option available
 
@@ -3430,7 +3431,7 @@ If there is a problem and some options are available, it is wrong to try and sel
 ### Arrow's theorem shows that social decision making is not logical
 
 ```md
-For a group of voters, there is no system where the group can arrive at a fair result by voting. So, when groups try to make a decision together, they can onle get 'pretty good' results, not 'perfect' results.
+For a group of voters, there is no system where the group can arrive at a fair result by voting. So, when groups try to make a decision together, they can only get 'pretty good' results, not 'perfect' results.
 ```
 
 Arrow's theorem shows that ideal social solutions results in logical inconsistencies. Decision making ideally involves using creating new solutions. The theorem is used to prove how choosing the correct seats per state for the House of Representatives in the United States leads to a strange conclusion: that there is no consistent way (you always have to round up or down in a way that goes against your original goals).
@@ -3465,7 +3466,7 @@ TODO
 
 When there are two options, there are really two explanations (one for each option) that you are choosing. You examine the evidence for each explanation and then rule out options based on that evidence. You are then left with the best option available. You do not rate them and give them a score for weighing how good they are. Weighing leads to problems because large quantities of evidence for an older, more tested theory will outweigh the evidence for the newer, less tested theory. The older theory should instead be ruled out when compared to the better explanation and evidence for the newer better theory.
 
-*Weighing evidence when making a decision is equivalent to treating the mind like a population, where votes for different optins are counted based on their evidence. This is problematic because [Arrow's Theorem](#arrows-theorem-shows-that-social-decision-making-is-not-logical) shows how this can lead to illogical conclusions. Options instead are ruled out relative to other options.*
+*Weighing evidence when making a decision is equivalent to treating the mind like a population, where votes for different options are counted based on their evidence. This is problematic because [Arrow's Theorem](#arrows-theorem-shows-that-social-decision-making-is-not-logical) shows how this can lead to illogical conclusions. Options instead are ruled out relative to other options.*
 
 ### Decision is about creating not weighing options
 
@@ -3473,7 +3474,7 @@ When there are two options, there are really two explanations (one for each opti
 Making a decision involves creating the best decision, not weighing options
 ```
 
-Decision making is about[explaining evidence, not [weighing evidence](#the-problem-with-weighing-evidence). It is a creative process where new conjectures are made to tie together other explanations and evidence. Those conjectures are criticised, and [bad explanations](#good-explanations) are abandoned.
+Decision making is about explaining evidence, not [weighing evidence](#the-problem-with-weighing-evidence). It is a creative process where new conjectures are made to tie together other explanations and evidence. Those conjectures are criticised, and [bad explanations](#good-explanations) are abandoned.
 
 *Decisions are made by conjectures about options, not the weighing of options.*
 
@@ -3508,7 +3509,7 @@ Two parties can iterate to find better policy over time. When they lose, they ha
 - Encourages parties to self-criticise when they lose because their policies must be the reason (rather than the policy of another in the coalition).
 - Any repeated losing encourages parties to create new policies and be very open about that.
 
-*Two party systems allow for very clear signals to the parties to improve over time. There is accountability when there are errors and clear incentives to change to become somethign that society wants.*
+*Two party systems allow for very clear signals to the parties to improve over time. There is accountability when there are errors and clear incentives to change to become something that society wants.*
 
 ### Democracy is about peaceful dethroning
 
@@ -3543,7 +3544,7 @@ With plurality voting, parties tend to be big and a bad ruler can be removed the
 
 Plurality voting, or "first past the post", is where each district chooses one seat based on who has the most ("plural") votes. It tends to give a disproportionately large vote count to the [two largest parties](#two-party-systems-are-ideal). This reduces the likelihood of minority parties getting votes and leading to coalitions and compromises. While it can give the most votes to the party that had fewer total votes, this is less of a problem than the overall goal, which is to be able to remove a [bad leader peacefully](#democracy-is-about-peaceful-dethroning).
 
-Plurality voting is better at peaceful dethroning than proportional voting because: it tends toward a two-party system, which allows unpopular parties to be voted out (if there are two, then the votes act to reject one ofer the other). The proportional voting system [encourages multiple small parties](#the-problem-with-proportional-voting-systems), so there may be 20 parties, and the most popular might only have 10% of votes. So even though 90% of people don't want them to win, they will be given power, and allowed to retain power if the situation keeps happening.
+Plurality voting is better at peaceful dethroning than proportional voting because: it tends toward a two-party system, which allows unpopular parties to be voted out (if there are two, then the votes act to reject one over the other). The proportional voting system [encourages multiple small parties](#the-problem-with-proportional-voting-systems), so there may be 20 parties, and the most popular might only have 10% of votes. So even though 90% of people don't want them to win, they will be given power, and allowed to retain power if the situation keeps happening.
 
 *Plurality voting systems encourage error correction. Plurality voting prevents a situation where a bad small party cannot be removed. Voting for one seat per district prevents small parties from gaining and keeping power despite not having minority of votes.*
 
@@ -3575,7 +3576,7 @@ Elegance is when an explanation contains some deep truth and it is seen to be be
 Theories that are elegant seem to be more likely to hold actual truths.
 ```
 
-Elegant theories can be false or true. True theories can be elegant or ugly. However, it seems to be that if something is elegant, it is more likely to contain some fundamental truths. So beauty can be used as a guide in the search for truths. For example, many people describe mathematic proofs as being elegant. So finding elegant things in mathematics could help you in a quest for more proofs.
+Elegant theories can be false or true. True theories can be elegant or ugly. However, it seems to be that if something is elegant, it is more likely to contain some fundamental truths. So beauty can be used as a guide in the search for truths. For example, many people describe mathematical proofs as being elegant. So finding elegant things in mathematics could help you in a quest for more proofs.
 
 *Elegance in science can be a useful guide to find truth.*
 
@@ -3587,7 +3588,7 @@ An artist discards things while they work. This is evidence that they work towar
 
 The composer creates within the scope for some objective criteria within the scope of their discipline (music or painting). It seems to be the case that it is possible to be wrong.
 
-*That an artist discards intermediate works impklies that they have an objective criteria.*
+*That an artist discards intermediate works implies that they have an objective criteria.*
 
 ### Why theories with truth are elegant needs an explanation
 
@@ -3615,7 +3616,7 @@ While some scientists may make amazing contributions seemingly without making mi
 It is clear that Mozart is objectively better than someone throwing rocks together.
 ```
 
-Mozart is clearly better than stone age people banging rocks together in a rudimentary beat. It would be disengenuous to argue otherwise. If presented with two audio tracks for the rest of your life, which would you choose?
+Mozart is clearly better than stone age people banging rocks together in a rudimentary beat. It would be disingenuous to argue otherwise. If presented with two audio tracks for the rest of your life, which would you choose?
 
 *Some art is very clearly better at the extremes.*
 
@@ -3657,7 +3658,7 @@ If there is a gene for some thought, it can be overcome.
 
 If there is a gene for some mental trait, such as being afraid of heights, the mind can overcome that. This is because the mind is a universal computer, and so can find a new way of thinking that counteracts the effect of the gene.
 
-*There is no inherited thought that cannot be overriden by the universal nature of the mind.*
+*There is no inherited thought that cannot be overridden by the universal nature of the mind.*
 
 ### Art is objective
 
@@ -3665,7 +3666,7 @@ If there is a gene for some mental trait, such as being afraid of heights, the m
 TODO
 ```
 
-You would prefer vivaldi to stones banging. A wastepaper basket of a musicion shows they work toward something better. Subjective preferrence does not negate this.
+You would prefer vivaldi to stones banging. A wastepaper basket of a musician shows they work toward something better. Subjective preference does not negate this.
 
 *TODO.*
 
@@ -3687,7 +3688,7 @@ The mind can learn any new thought, so just how we can [overcome any genetic pre
 TODO
 ```
 
-Not everyone agrees about what is the best scientific theory, even when there appears to be good reasons for poeple to agree. THis does not mean that there is no truth in the better theory, or that truth is subjective. Similarly, peple may disagree about whether something is beautiful or not. Their disagreement does not mean that there is no objective beauty there.
+Not everyone agrees about what is the best scientific theory, even when there appears to be good reasons for people to agree. THis does not mean that there is no truth in the better theory, or that truth is subjective. Similarly, people may disagree about whether something is beautiful or not. Their disagreement does not mean that there is no objective beauty there.
 
 *TODO.*
 
@@ -3757,7 +3758,7 @@ There are many very unappealing things that have colour, contrast and symmetry i
 The appeal of a sunset is different from the beauty of flowers because if you change it, it still looks good.
 ```
 
-Natural landscapes can be beautiful, but if you vaary some component the beauty does not change. The waterfall does not become unappealing if you add or remove streams or rocks from it. Whereas modifying a flower can very obviously ruin the appeal.
+Natural landscapes can be beautiful, but if you vary some component the beauty does not change. The waterfall does not become unappealing if you add or remove streams or rocks from it. Whereas modifying a flower can very obviously ruin the appeal.
 
 *Beauty in unevolved things is easy to vary, and is a different sort of beauty than flowers.*
 
@@ -3831,7 +3832,7 @@ When an idea is replicated by moving from one person to another, the idea change
 Some ideas cause you to do something, others do not.
 ```
 
-You may have many ideas in a day, but only a few cause you to do something. If you receive a new idea from someone and it does not cause your behaviour to change, that idea is less likley to spread that another idea that caused you to take action and do something that helped spread the idea.
+You may have many ideas in a day, but only a few cause you to do something. If you receive a new idea from someone and it does not cause your behaviour to change, that idea is less likely to spread that another idea that caused you to take action and do something that helped spread the idea.
 
 *A subset of ideas you have influence your behaviour.*
 
@@ -3841,7 +3842,7 @@ You may have many ideas in a day, but only a few cause you to do something. If y
 A culture is a collection of similar but slightly different ideas.
 ```
 
-When people copy ideas, they are [imperfectly copied](#ideas-are-imperfectly-copied), so a culture is defined by a set of varianat that cause slightly different behaviours. Some variants make the recipient more likely to tell others, and others are very easy to copy without error.
+When people copy ideas, they are [imperfectly copied](#ideas-are-imperfectly-copied), so a culture is defined by a set of variant that cause slightly different behaviours. Some variants make the recipient more likely to tell others, and others are very easy to copy without error.
 
 *A culture is the set of imperfectly replicated ideas that cause behaviours.*
 
@@ -3860,7 +3861,7 @@ Ideas with respect to their interaction with culture have four main types:
 
 The latter is an idea that goes viral and may persist for hundreds of years. Memes must cause behaviour, otherwise they will be lost.
 
-*Ideas can be private or they can drive their own replication though behavious change.*
+*Ideas can be private or they can drive their own replication though behaviours change.*
 
 ### The problem with arguments by analogy
 
@@ -3902,7 +3903,7 @@ Smaller changes to ideas in the subconscious can lead to new creative ideas.
 
 Blind variations and criticisms in the mind result in a creative thought at a higher level of thought in emergence.
 
-*Creativity may be expained by variation and selection of ideas in the subconscious mind.*
+*Creativity may be explained by variation and selection of ideas in the subconscious mind.*
 
 ### Memes have two steps
 
@@ -3917,7 +3918,7 @@ Memes have two steps for a cycle of replication:
 
 *Memes replicate when a person first develops an idea about what the meme is, then later does something to spread the idea to another person. Both steps are sources of variation.*
 
-### Goal of society shoud be to become dynamic rather than static
+### Goal of society should be to become dynamic rather than static
 
 ```md
 Societies that encourage new ideas have a higher chance of solving harmful problems in the future.
@@ -4043,13 +4044,13 @@ If North korea were to adopt rational memes, it would be unable to return to its
 
 *TODO.*
 
-### Antirationl memes can be detected by the shame they cause
+### Antirational memes can be detected by the shame they cause
 
 ```md
 Society has outdated beliefs and customs that don't make sense, but if you don't follow them you feel shame. Even if you know about the meme.
 ```
 
-Rather than create their own ritualss, behaviours and goals, society has collections of antirational memes that have been passed down. These memes are antirational because they cannot be challenged (it is socially discouraged implicitly or explicitly). The pressure to comply with these memes can manifest in a way that the person feels shame or embarassment if they do not obey the meme.
+Rather than create their own rituals, behaviours and goals, society has collections of antirational memes that have been passed down. These memes are antirational because they cannot be challenged (it is socially discouraged implicitly or explicitly). The pressure to comply with these memes can manifest in a way that the person feels shame or embarrassment if they do not obey the meme.
 
 *Challenging antirational memes often leads to the person feeling shame.*
 
@@ -4066,12 +4067,12 @@ Transitions are complex and rational and antirational memes compete and interfer
 ### The Enlightenment is when the world is mainly transformed by explanatory knowledge
 
 ```md
-The Enlightement is when the world changes mostly due to our ability to create explanations for how things work, rather than other processes.
+The Enlightenment is when the world changes mostly due to our ability to create explanations for how things work, rather than other processes.
 ```
 
 The Enlightenment is a time when most things are being transformed as a consequence of explanatory knowledge.
 
-*The Enlghtenment is the moment at which explanaatory knowledge is beginning to assume its soon to be normal role as the most important determinant of physical events.*
+*The Enlightenment is the moment at which explanatory knowledge is beginning to assume its soon to be normal role as the most important determinant of physical events.*
 
 ### The problem with the collective inventor
 
@@ -4115,7 +4116,7 @@ Creativity is the process that gives us knowledge.
 
 Philosophy, mathematics, art and science all come out of creativity. It is how we create [explanatory knowledge](#creativity-gives-people-their-ability-to-create-explanatory-knowledge). Animals do not have creativity. Creativity allows us to create a model of anything in the universe, and have that [model increase in accuracy over time](#knowledge-creates-accurate-and-improving-representations).
 
-*Creativity is the core skill that people have. We use it to create explanaory knowledge.*
+*Creativity is the core skill that people have. We use it to create explanatory knowledge.*
 
 ### We don't yet understand creativity
 
@@ -4183,7 +4184,7 @@ The universe has deterministic laws, but [the emergent level](#the-emergent-leve
 Creativity evolved only once.
 ```
 
-There is no other example of cretivity in nature, therefore it is not a convergent feature of evolution.
+There is no other example of creativity in nature, therefore it is not a convergent feature of evolution.
 
 *Creativity appears to have evolved once.*
 
@@ -4194,7 +4195,7 @@ Human ancestors were creative but tried to perfect existing culture for social r
 ```
 
 Creativity evolved in human ancestors but it does not appear that it was used to invent technology.
-Creativity was likely being chanelled to be the best at a current meme in society. Early society was likely [static](#the-problem-with-static-societies), where new ideas are not rewarded and new inventions were taboo. Perhaps innovators were cast out of society.
+Creativity was likely being channelled to be the best at a current meme in society. Early society was likely [static](#the-problem-with-static-societies), where new ideas are not rewarded and new inventions were taboo. Perhaps innovators were cast out of society.
 
 *The absence of evidence for innovation in primitive human society can be explained by it being a static society. Social reward was given to those who could enact existing customs more faithfully than the norm or display exceptional obedience to existing ideas. Thus creativity was used in selection of mates and survived, but no significant innovation occurred.*
 
@@ -4231,7 +4232,7 @@ The guesswork component involves [creating knowledge](#knowledge-is-created-by-c
 Animals have inbuilt libraries of actions that can be combined to form new actions. This is a slow and limited process.
 ```
 
-An ape can copy another ape with a better way to crack a nut. This is an example of behaviour passing. This is not conjecture and refutation. There is a repertoire or library of behaviours that can be combined in new ways not previously seen in a group. This requires lengthy watching and attempting and is an inefficient process. Humans do something completely different, we seek the meaning of what is being done, not the specific movements or sounds. So we might wach a lecture and remember the concept but not a single exact sentence from it.
+An ape can copy another ape with a better way to crack a nut. This is an example of behaviour passing. This is not conjecture and refutation. There is a repertoire or library of behaviours that can be combined in new ways not previously seen in a group. This requires lengthy watching and attempting and is an inefficient process. Humans do something completely different, we seek the meaning of what is being done, not the specific movements or sounds. So we might watch a lecture and remember the concept but not a single exact sentence from it.
 
 *Animals can use recombination of basic inherited behaviours to mimic or produce previously unseen behaviour. A process different from humans in that it doesn't involve creativity.*
 
@@ -4256,9 +4257,9 @@ There are two puzzles with one solution (creativity):
 1. Why human creativity was advantageous at a time when there was almost no innovation.
 2. How can memes be replicated given they have content that the recipient never observes.
 
-What replicates human memes is creativity, and creativity was used while it was evolving, to replicate memes. Creativity is used to acquire existing knowledge, not create new knowledge. But the mechanism to do both things is the same. So in acquiring the ability to do the former, we automatically gain the ability to do the latter. This is an example of reach, and enabled everything taht is uniquely human.
+What replicates human memes is creativity, and creativity was used while it was evolving, to replicate memes. Creativity is used to acquire existing knowledge, not create new knowledge. But the mechanism to do both things is the same. So in acquiring the ability to do the former, we automatically gain the ability to do the latter. This is an example of reach, and enabled everything that is uniquely human.
 
-*Creativity arose becuse it allowed meme replication. A byproduct was creating new knowledge.*
+*Creativity arose because it allowed meme replication. A by-product was creating new knowledge.*
 
 ### Both science and meme understanding both require discovery of a hidden explanation
 
@@ -4281,7 +4282,7 @@ Both have access to evidence, with which explanations can be tested (behaviours 
 Rituals are a way for strict societies to improve a set of useful tools.
 ```
 
-Memes in primitive human society would likely have actual benefit for survival. For example, making a spear might be a ritual that people would try to do to be part of the tribe. You could apply creativity to make an extra good (strong, light or sharp) spear. The outcome might be a tribe that is very strict about spearmaking and consequently very good at hunting and fighting. So strict rituals for this static society would lead to better chance at surviving and growing, despite discouraging new ideas.
+Memes in primitive human society would likely have actual benefit for survival. For example, making a spear might be a ritual that people would try to do to be part of the tribe. You could apply creativity to make an extra good (strong, light or sharp) spear. The outcome might be a tribe that is very strict about spear-making and consequently very good at hunting and fighting. So strict rituals for this static society would lead to better chance at surviving and growing, despite discouraging new ideas.
 
 *A static society can excel at narrow tasks through rituals that harness creativity.*
 
@@ -4363,7 +4364,7 @@ Some societies may be stuck with culture that causes its members harm. [Easter I
 It is unlikely that a society closed to new ideas can be studied to learn new ideas. This includes ideas about what we should focus our attention on and do in life.
 ```
 
-Progress is sustainable indefinitely, but only be people with a culture of criticism in a dynamic society. This is an optimistic society who hope to learn from their own failings. However, learning from the failings of Easter island is not likely to be valuable for they made no progress in their pursuits. We shoud not hope to learn about new technologies or advancements from them. Similarly, other cultures that prevent criticism (such as those who mutilate and subdue some members) are unlikely to have accumulated advanced knowledge because they fundamentally have a static society that resists new ideas.
+Progress is sustainable indefinitely, but only be people with a culture of criticism in a dynamic society. This is an optimistic society who hope to learn from their own failings. However, learning from the failings of Easter island is not likely to be valuable for they made no progress in their pursuits. We should not hope to learn about new technologies or advancements from them. Similarly, other cultures that prevent criticism (such as those who mutilate and subdue some members) are unlikely to have accumulated advanced knowledge because they fundamentally have a static society that resists new ideas.
 
 *A static society is unlikely to have developed advanced knowledge in any domain. Progress requires the openness to new ideas. So to value all cultures as being equal (moral [relativism](#the-problem-with-relativism)) incorrectly expects all cultures to have made moral progress.*
 
@@ -4375,7 +4376,7 @@ Ideas are not physical things because they can exist in writing or in sound, but
 
 An idea exists as a crackle of electricity in neurons in the mind. But it is not identical to that. For you can take the idea and write it down on a piece of paper (pencil on paper), or you could explain it (sound waves). The idea is an abstraction yet has physical effects on the real world (ideas can cause people to do things).
 
-*Ideas are real and abstract and can be instanstiated in different physical forms.*
+*Ideas are real and abstract and can be instantiated in different physical forms.*
 
 ### Societies improve slowly
 
@@ -4427,12 +4428,12 @@ People argue that the planet is crowded and that "the resources are going to run
 
 However, because we are going to [solve those problems](#problems-are-inevitable-problems-are-soluble) and [create new resources](#new-resources-are-created-using-knowledge) that means we are going to be able to both sustain more people and increase standards of living.
 
-*That resources are defined by our knowledge, which is unbounded, is a good reason to belive the carrying capacity and living standards for the Earth is much higher than what we have today.*
+*That resources are defined by our knowledge, which is unbounded, is a good reason to believe the carrying capacity and living standards for the Earth is much higher than what we have today.*
 
 ### It is okay that we do not know how to solve some problems
 
 ```md
-Don't worry if there is a problem that doesn't seem solveable. It is possible that it will be solved, and you cannot predict that.
+Don't worry if there is a problem that doesn't seem solvable. It is possible that it will be solved, and you cannot predict that.
 ```
 
 It may be concerning to some that we have problems today without solutions. However, the scope of new things that can be invented in a day, week or year are completely unknown. Right now there could be someone creating a new piece of knowledge that has an effect so dramatic that the problem you are thinking of is no longer relevant. To worry that the problem is not possible to be solved in time is wrong, because it is possible. To list reasons why it is not likely is to boldly ignore the list of possible new ideas people may have that could solve or change the problem. That list of possible solutions awaiting invention [is not predictable](#knowledge-is-created-and-is-unpredictable), and worrying about unknowable things is a fruitless endeavour.
@@ -4482,7 +4483,7 @@ However this is refuted by the [parable of Europium](#the-parable-of-europium). 
 People are the solution to the problems of tomorrow. While every new solution comes with a new problem, we can solve that problem too. Each solution brings into a better world.
 ```
 
-The pessimistic view of people is that they are wasters who take precious resources and madly convert them in to useless things (like [Europium into coloured televisions](#the-parable-of-europium)). This is true of static societies, where uncriticised ideas can lead to harmful actions (like the [stone statues and tree-roads on Easter island](#the-problem-with-easter-island-comparisons)).
+The pessimistic view of people is that they are wasters who take precious resources and madly convert them in to useless things (like [Europium into coloured televisions](#the-parable-of-europium)). This is true of static societies, where un-criticised ideas can lead to harmful actions (like the [stone statues and tree-roads on Easter island](#the-problem-with-easter-island-comparisons)).
 
 The optimistic view of people is that people are problem solvers. They are creators of the 'unsustainable solution' and hence of the solution to the next problem.
 
@@ -4518,7 +4519,7 @@ We can make scientific projections, but these require that we make bold claims a
 We cannot predict the economic impact of climate change because anything we invent could affect those predictions.
 ```
 
-Projecting economic impacts of climate change is not possible because any innovations we have that affect the situation will have an effect. So the projections will depend on prophesying what knwoledge will be created.
+Projecting economic impacts of climate change is not possible because any innovations we have that affect the situation will have an effect. So the projections will depend on prophesying what knowledge will be created.
 
 *Economic forecasts of climate change require the forecasting of new knowledge that affects the situation.*
 
@@ -4666,7 +4667,7 @@ Almost no one is creative in fields in which they are pessimistic. If you want t
 We grow our knowledge by moving from old problems to new and better problems.
 ```
 
-The growth of knowledge is a continual transition from problems to better problems (not solutions). This is an extension of the idea that all our theories can be thought of as [misconceptions](#scientific-theories-are-scientific-misconceptions) awaiting improvement. It can be thought of as a challenge to improve things (solve the problem of what the error is in any given theory). Prople are ideally open to change their minds on things rather than believing scientific dogma.
+The growth of knowledge is a continual transition from problems to better problems (not solutions). This is an extension of the idea that all our theories can be thought of as [misconceptions](#scientific-theories-are-scientific-misconceptions) awaiting improvement. It can be thought of as a challenge to improve things (solve the problem of what the error is in any given theory). People are ideally open to change their minds on things rather than believing scientific dogma.
 
 *Knowledge is gained by focusing on an infinite series of problems.*
 
@@ -4680,15 +4681,15 @@ All theories are not equal. We move from [misconception](#scientific-theories-ar
 
 *We cannot quantify the truth in our theories.*
 
-### Fallibalism does not require passivism
+### Fallibilism does not require passivism
 
 ```md
 Believing that your ideas can all be wrong does not mean passively letting them go. It is ok to claim that there are ideas which are worth protecting into the future.
 ```
 
-Being a [fallabalist](#fallabalism) does not mean that we should be passive when faced with other peoples strong opinions. It is appropriate to be passionate about ideas we have strong convictions about. We can claim to know what we know and defend moral ideals and values that we think are important for the maintenance of civilisation.
+Being a [fallibilist](#fallibilism) does not mean that we should be passive when faced with other peoples strong opinions. It is appropriate to be passionate about ideas we have strong convictions about. We can claim to know what we know and defend moral ideals and values that we think are important for the maintenance of civilisation.
 
-*Fallabalists can have conviction and be more active than passive relativists and tyrannical dogmatists.*
+*Fallibilists can have conviction and be more active than passive relativists and tyrannical dogmatists.*
 
 ### Objective truths exist in all disciplines and finality in none of them
 
@@ -4708,7 +4709,7 @@ Knowledge creation is a form of computation.
 
 Human minds are [universal computers](#computers-can-simulate-a-human-brain) and we create knowledge.
 
-*Knoweldge creation is a form of computation.*
+*Knowledge creation is a form of computation.*
 
 ### We are at the beginning of scientific progress
 
@@ -4756,13 +4757,13 @@ When we make an observation and note that we are here in this observation, there
 It may be tempting to take actions expecting that in some universe you will end up in a good situation. What you ultimately experience may rely on likelihoods, which are problematic if there are infinite versions of you making that action.
 ```
 
-Given that we [split in the multiverse](#universes-keep-differentiating), you could make a machine to kill you if your lottery ticket isnot the winner. Lottery seems random from your [subjective perspective](#quantum-processes-are-subjective-not-objective-randomness), so you will be a millionaire in all universes where you wake up alive. This is not good reasoning because it requires an additional assumptions:
+Given that we [split in the multiverse](#universes-keep-differentiating), you could make a machine to kill you if your lottery ticket is not the winner. Lottery seems random from your [subjective perspective](#quantum-processes-are-subjective-not-objective-randomness), so you will be a millionaire in all universes where you wake up alive. This is not good reasoning because it requires an additional assumptions:
 
 When making a decision, one should ignore all histories in which the decision maker is absent. Namely, don't worry about all those dead versions of you. However, similar to [anthropic arguments](#the-problem-with-anthropic-arguments), there are possibly some problems with assessing probabilities of the situation, given there are infinities involved. So it is poorly understood if you can say that it is likely your conscious experience would be to wake up, alive and wealthy.
 
 *Making decisions where you expect your conscious experience to continue in some branch of the multiverse is a poorly understood area. It may require more knowledge about how to assess probabilities of infinite sets.*
 
-### The problem with probabalistic simulation theory
+### The problem with probabilistic simulation theory
 
 ```md
 Being able to imagine our universe being a simulation running on many computers does not increase the probability that a simulation is likely. This is because we do not know how to assess probabilities of this kind, only probabilities related to the history of our current universe.
@@ -4812,7 +4813,7 @@ You can make predictions as long as new knowledge is not likely to be created. I
 
 There is a way to tell the difference between prediction and [prophecy](#you-cannot-predict-the-future). It is important to know if new knowledge can be made to affect you are trying to predict. If new knowledge can be made it is prophecy, [if new knowledge cannot be made in time then it is prediction](#decisions-in-the-near-future-can-be-based-on-educated-guesses).
 
-If you make a concealed hole in your driveway, you can predict the car of a visitor next week will fall into it. However, if a visitor is coming in 5 years, you can only prophecy they will fall in, for new knowledge could be created and your visitor may have bought a different vehicle, one with advanced road scanning, or one that flies. The prophesy-prediction transition point will likely happen sooner than if you were to make predictions about the appearance of the moon, because there are many people working on car technology, and fewer people working on moonscaping/mooncity technology.
+If you make a concealed hole in your driveway, you can predict the car of a visitor next week will fall into it. However, if a visitor is coming in 5 years, you can only prophecy they will fall in, for new knowledge could be created and your visitor may have bought a different vehicle, one with advanced road scanning, or one that flies. The prophesy-prediction transition point will likely happen sooner than if you were to make predictions about the appearance of the moon, because there are many people working on car technology, and fewer people working on moon-scape or moon-city technology.
 
 *The time beyond which scientific prediction has no access is different for different phenomena. For each phenomenon it is the moment at which the creation of new knowledge may begin to make a significant difference to what one is trying to predict.*
 
@@ -4842,7 +4843,7 @@ It is the concerns of people, rather than all conscious creatures, that are at t
 Everything in this book can be modified, challenged or ignored and none of it should be believed. What is here are ideas that can be used and tried out. If there are some truths, then they will tend to survive in your because they are useful.
 ```
 
-All that is here is fallible explanations. Any of this can be overturned, criticised and reinterpreted by you in a way that suits you, works for you, and allows you to make progress. To come to a consensus in order to resolve conflicts. A reader should not to adhere to or believe this text in any way. Ideas may [imperfectly replicated](#learning-and-understanding-is-about-imperfect-copying) in the mind of any reader who engages and comes up with the same idea through creataive conjecture.
+All that is here is fallible explanations. Any of this can be overturned, criticised and reinterpreted by you in a way that suits you, works for you, and allows you to make progress. To come to a consensus in order to resolve conflicts. A reader should not to adhere to or believe this text in any way. Ideas may [imperfectly replicated](#learning-and-understanding-is-about-imperfect-copying) in the mind of any reader who engages and comes up with the same idea through creative conjecture.
 
 *This book contains fallible ideas. If there are some truths here, then they may survive in the mind of the reader who will create the idea again and try it out.*
 
@@ -4861,7 +4862,7 @@ It is better reasoning to think that there is no God because no explanation requ
 ### There is a lot to preserve in religion
 
 ```md
-Religions have been a part of our changing and open society. If you got rid of them quickly, there may be unforseen and terrible impacts on society. Any changes would be better implemented as slow steps.
+Religions have been a part of our changing and open society. If you got rid of them quickly, there may be unforeseen and terrible impacts on society. Any changes would be better implemented as slow steps.
 ```
 
 Religions are institutions and similar to other institutions in society, they are long-running and complex systems that we do not fully understand. There are many positive things that religions may be doing, and [care should be taken](#institutions-may-have-harmful-and-beneficial-components) not to hastily dismantle them. That could cause great harm in unknown ways, including causing society to become more [static](#the-problem-with-static-societies) rather than dynamic.
@@ -4884,9 +4885,9 @@ All we can do is choose an infinity of ignorance or of knowledge.
 Most people are like pilots, flying the aeroplane of their own lives. The study of how things work, how progress is made and how problems are solved are not important to fly the plane. However, the knowledge for how that plane works under the hood is there. Other ways of thinking can tend to reject the idea that there is a real plane to be flown and can get people lost in theory disconnected from reality.
 ```
 
-The most rudimentaty way to see the world is that things around us are real, and we get on with life knowing that. There are also ways of thinking about the world that diverge from this (sophisticated intellectual idealism, Bayesianism, scientism and rationalism), and they separate people from actual practice of solving problems. Popperian-style epistemology (and subsequently Deutsch/BOI) is another level, where common sense realism is again embraced, but it has the vocabulary to explain how thinking works, how progress is made and how problems are solved.
+The most rudimentary way to see the world is that things around us are real, and we get on with life knowing that. There are also ways of thinking about the world that diverge from this (sophisticated intellectual idealism, Bayesianism, scientism and rationalism), and they separate people from actual practice of solving problems. Popperian-style epistemology (and subsequently Deutsch/BOI) is another level, where common sense realism is again embraced, but it has the vocabulary to explain how thinking works, how progress is made and how problems are solved.
 
-*Popperian epistemology makes explicit what is already implicit in the world. It is a vocabulary for describing the reality that most people already utilise. Other epistemologies embrace ideas that reject concrete reality.*
+*Popperian epistemology makes explicit what is already implicit in the world. It is a vocabulary for describing the reality that most people already utilise. Other kinds o f epistemology embrace ideas that reject concrete reality.*
 
 ### Good epistemology is a defence of indoctrination
 
@@ -4896,7 +4897,7 @@ The study of how knowledge is created is important because there are some ways o
 
 The theory of knowledge that Popper and Deutsch communicate is important to understand because it will allow incorrect ideas to be identified. There are smart people in important domains who have frameworks that sound compelling but lead to bad decision making. By understanding how knowledge is created, you can avoid adopting ideas that would otherwise have been compelling.
 
-*The study of Popperian epistemology helps innoculate against bad epistemology.*
+*The study of Popperian epistemology helps inoculates against bad epistemology.*
 
 ### We are at the beginning of infinity and can choose our direction
 
