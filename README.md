@@ -4,6 +4,10 @@ Source text and code for Quick BOI, a reference handbook for the Beginning of In
 
 Published at: https://ceramic-sf.github.io/2023/10/24/quick-boi.html
 
+## Did you spot and error?
+
+Some things in the book will be imperfect. You can submit changes if you want to via
+a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Mechanics
 
