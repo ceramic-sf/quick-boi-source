@@ -20,6 +20,7 @@ class Book:
             in_introduction = True
             start_of_chapter = False
             current_chapter = ''
+            line_count = len(data)
             for index, line in enumerate(data):
                 if not line.startswith('## Chapter 1') and in_introduction:
                     # If in part before the content begins.
@@ -27,8 +28,10 @@ class Book:
                     continue
                 in_introduction = False
                 if line.startswith('## '):
+                    sections.append(Section(blob, index, start_of_chapter, current_chapter))
                     start_of_chapter = True
                     current_chapter = line
+                    blob = []
                     continue
                 if line.startswith('### '):
                     if blob == ['\n']:
@@ -42,6 +45,9 @@ class Book:
                         blob = []
                     # Store new blob name
                     blob.append(line)
+                if index == line_count - 1:
+                    blob.append(line)
+                    sections.append(Section(blob, index, start_of_chapter, current_chapter))
 
                 else:
                     # In section, keep adding

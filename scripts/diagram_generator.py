@@ -50,10 +50,14 @@ def generate_single(section):
 
     # Determine if diagram is needed.
     if len(section.parents) > 0:
+        section.needs_diagram = True
+        '''
+        # For less diagrams.
         # If any parent link itself has a parent link, make diagram.
         for parent in section.parents:
             if len(parent.parents) != 0:
                 section.needs_diagram = True
+        '''
 
     if section.needs_diagram:
         add_sections_to_file(included, section.puml_name)
