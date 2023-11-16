@@ -43,6 +43,9 @@ Plain language concept.
 The content is based on Brett Hall's reading of the Beginning of Infinity in his podcast ToKast. Chapters and content are therefore roughly aligned with
 those in The Beginning of Infinity.
 
+Additional separate sections are:
+- [A dissection of Moloch](#a-dissection-of-moloch---ceramic-exploration)
+
 The book source text and scripts for generating diagrams are located at
 https://github.com/ceramic-sf/quick-boi-source. All edits/PRs should be made in that repository.
 
@@ -372,7 +375,7 @@ Table of Contents:
     - [Flowers and flower-finding skills are hard to forge](#flowers-and-flower-finding-skills-are-hard-to-forge)
     - [Objective standards allow for forgery identification](#objective-standards-allow-for-forgery-identification)
     - [People can discover objective beauty](#people-can-discover-objective-beauty)
-    - [Colour, contrast and symmetry are ont beautiful](#colour-contrast-and-symmetry-are-not-beautiful)
+    - [Colour, contrast and symmetry are not beautiful](#colour-contrast-and-symmetry-are-not-beautiful)
     - [Natural landscapes are a different sort of beauty](#natural-landscapes-are-a-different-sort-of-beauty)
     - [Perceiving objective beauty requires knowledge with reach](#perceiving-objective-beauty-requires-knowledge-with-reach)
     - [Art can have subjective and objective components](#art-can-have-subjective-and-objective-components)
@@ -485,6 +488,33 @@ Table of Contents:
     - [Common sense realism is both simple and advanced](#common-sense-realism-is-both-simple-and-advanced)
     - [Good epistemology is a defence of indoctrination](#good-epistemology-is-a-defence-of-indoctrination)
     - [We are at the beginning of infinity and can choose our direction](#we-are-at-the-beginning-of-infinity-and-can-choose-our-direction)
+  - [A dissection of Moloch - Ceramic exploration](#a-dissection-of-moloch---ceramic-exploration)
+    - [Moloch is one counterfactual out of many](#moloch-is-one-counterfactual-out-of-many)
+    - [Moloch inverts a solution and presents it as the cause](#moloch-inverts-a-solution-and-presents-it-as-the-cause)
+    - [Moloch is easy to vary](#moloch-is-easy-to-vary)
+    - [Moloch is always invocable for multi-agent problems](#moloch-is-always-invocable-for-multi-agent-problems)
+    - [Coordination without coercion is difficult](#coordination-without-coercion-is-difficult)
+    - [The misconception of Moloch is that coordination is only one of many possible solutions](#the-misconception-of-moloch-is-that-coordination-is-only-one-of-many-possible-solutions)
+    - [That Moloch is a meme does not make it useful for understanding the world](#that-moloch-is-a-meme-does-not-make-it-useful-for-understanding-the-world)
+    - [Coordination is not required](#coordination-is-not-required)
+    - [Moloch is not real](#moloch-is-not-real)
+    - [The Moloch framework is a false dichotomy](#the-moloch-framework-is-a-false-dichotomy)
+    - [Moloch is a prophesy that coordination failure will cause problems](#moloch-is-a-prophesy-that-coordination-failure-will-cause-problems)
+    - [The idea of Moloch is not a harmless framework](#the-idea-of-moloch-is-not-a-harmless-framework)
+    - [There is no Moloch behind the prisoner's dilemma](#there-is-no-moloch-behind-the-prisoners-dilemma)
+    - [There is no Moloch behind dollar auctions](#there-is-no-moloch-behind-dollar-auctions)
+    - [There is no Moloch behind the fish farming story](#there-is-no-moloch-behind-the-fish-farming-story)
+    - [There is no Moloch behind the Malthusian trap](#there-is-no-moloch-behind-the-malthusian-trap)
+    - [There is no Moloch behind capitalism](#there-is-no-moloch-behind-capitalism)
+    - [There is no Moloch behind the two income trap](#there-is-no-moloch-behind-the-two-income-trap)
+    - [There is no Moloch behind the agricultural revolution](#there-is-no-moloch-behind-the-agricultural-revolution)
+    - [There is no Moloch behind arms races](#there-is-no-moloch-behind-arms-races)
+    - [There is no Moloch behind cancer](#there-is-no-moloch-behind-cancer)
+    - [There is no Moloch behind a race to the bottom](#there-is-no-moloch-behind-a-race-to-the-bottom)
+    - [There is no Moloch behind education incentives](#there-is-no-moloch-behind-education-incentives)
+    - [There is no Moloch behind scientific research](#there-is-no-moloch-behind-scientific-research)
+    - [There is no Moloch behind government corruption](#there-is-no-moloch-behind-government-corruption)
+    - [There is no Moloch behind the US Congress](#there-is-no-moloch-behind-the-us-congress)
 
 
 ## Chapter 1 - The Reach of Explanations
@@ -4914,3 +4944,566 @@ We are at the beginning of infinity and to survive in the long run and make prog
 Our ability to create explanatory knowledge is critical in solving problems.
 
 *The universe continues on into infinity. If we are to persist and thrive, our actions to cultivate the growth of explanatory knowledge are important.*
+
+## A dissection of Moloch - Ceramic exploration
+
+### Moloch is one counterfactual out of many
+
+```md
+Moloch is about something that could have happened.
+```
+
+Moloch (coordination failure) is a term to describe a pattern of problems caused by coordination failure.
+Coordination failure describes something that did not happen, but could have.
+
+*Moloch is a retroactive counterfactual for coordination broadly.*
+
+### Moloch inverts a solution and presents it as the cause
+
+```md
+Coordination might have solved a problem. That does not make the cause of the problem
+the absence of coordination.
+```
+
+Moloch is a solution that [could have been used](#moloch-is-one-counterfactual-out-of-many).
+However it is often presented as the cause for something.
+
+An example might be to say the cause for rose garden workers having cut hands
+is the absence of gloves. Gloves are one solution, but so are handheld tools, or robots.
+The real cause is that bare hands are being used to manipulate sharp thorns.
+
+A more applicable example is [a new invention that causes some problem](#problems-are-inevitable-problems-are-soluble)
+that affects multiple competing agents. The real cause for the problem is the new invention.
+The solution may be another invention or creative solution that has nothing to do with coordination.
+
+*Moloch is the misattribution of a solution as the cause. It can obstruct the path to finding
+the best explanation.*
+
+### Moloch is easy to vary
+
+```md
+Moloch can be morphed into a variety of shapes.
+```
+
+Moloch (coordination failure) can describe a great variety of [counterfactual](#moloch-is-one-counterfactual-out-of-many) situations and scenarios.
+It is easy to vary some coordination scenario that fits a particular setting. If that scenario
+is criticised, another can be created and so on.
+
+As it is easy to vary, that makes it hard to [test](#testability-allows-falsification-of-theories). Which makes it a [bad explanation](#learning-good-explanations-is-more-accurate-than-bad-explanations).
+
+*Moloch is a bad explanation because it is easy to vary.*
+
+### Moloch is always invocable for multi-agent problems
+
+```md
+If people are involved, coordination can always be imagined.
+```
+
+Whenever there are multiple competing agents involved in a problem, one can invoke Moloch.
+This is possible even when there is a problem with a very clear and specific cause.
+
+Some children are playing with a ball and one falls on a piece of glass despite someone else having
+seen it before. Why did this happen? The best explanation is the simplest: "someone left glass on the
+ground, the children were busy playing and then one child fell on it".
+
+It is not "the children failed to coordinate and communicated the glass to each other". The solution
+is not clearly "better systems for children to coordinate communicate dangers". The solution could be a
+single child put the glass in the bin when they saw it, or a groundskeeper starts inspecting
+the yard before the school day.
+
+*Coordination is a general term that can always be applied to multi-agent systems.*
+
+### Coordination without coercion is difficult
+
+```md
+It is not always easy to get people to agree on a topic.
+```
+
+People compete using a variety of ideas and beliefs. Getting people to come together on a topic
+can be very challenging. It takes a lot of reasoning and effort to coordinate without forcing
+or coercing other parties.
+
+*Peaceful coordination requires significant time and effort.*
+
+### The misconception of Moloch is that coordination is only one of many possible solutions
+
+```md
+A coordination plan is one creative idea for how to solve a problem. Many other ideas exist and may
+be better.
+```
+
+Moloch is a meme that encourages artificial prioritisation of coordination-based solutions above
+other kinds of solutions. This is significant because Moloch [can always be applied](#moloch-is-always-invocable-for-multi-agent-problems) when people are involved.
+
+Yet there are many other solutions that could resolve the problem, and these [may be easier](#coordination-without-coercion-is-difficult). People need to believe that other
+solutions can exist and then attempt to create them. However, [Moloch is presented as the cause](#moloch-inverts-a-solution-and-presents-it-as-the-cause), so rather than looking at the broadest and most comprehensive view of a problem, they may only see the problem narrowly as a problem
+of coordination. Their creative efforts might then be restricted.
+
+*Problems that feature multiple agents that could coordinated are not trivially attributable to or best resolved by coordination.*
+
+### That Moloch is a meme does not make it useful for understanding the world
+
+```md
+The Moloch idea is spreading, but that does not make it a good idea.
+```
+
+[Useful memes tend to survive](#useful-memes-tend-to-survive). They might be useful for
+particular reasons like they get you on podcasts. Moloch may tap into deep fear thought patterns
+that make people afraid, which makes them remember the idea and trust the bearer of the tale.
+
+*Bad ideas can replicate as memes.*
+
+### Coordination is not required
+
+```md
+If people believe coordination is essential when it is not essential, this can lead to bad ideas
+about what to do.
+```
+
+[Moloch is a misconception](#the-misconception-of-moloch-is-that-coordination-is-only-one-of-many-possible-solutions) that coordination is required to solve multi-agent problems.
+That is incorrect because a single independent actor may create a new idea that solves the problem.
+
+Using the bad theory of Moloch in ones explanations for the world may lead to other theories that
+do not match reality. For example, one might create a policy that requires all scientists in a
+domain to coordinate. This could reduce the variety of ideas they produce and stifle the
+creation of new explanatory knowledge.
+
+*The belief that coordination is required is unfounded and can lead to decisions that impair progress.*
+
+### Moloch is not real
+
+```md
+Moloch refers to some hidden pattern that does not exist.
+```
+
+Moloch (coordination failure) [does not appear in our best explanations](#things-exist-if-they-appear-in-our-explanations)
+for how things work. For every problem attributable to Moloch, there is a better explanation.
+
+For example, a group of competing businesses with the problem of bad working conditions can
+be explained by describing businesses, unit cost, economies of scale, markets,
+employees and wages. "Failure of coordination" is not in the explanation. One may have a theory
+about coordination, but it is not required to explain the situation.
+
+[Coordination is a specific idea](#the-misconception-of-moloch-is-that-coordination-is-only-one-of-many-possible-solutions)
+for a specific problem. One might say that a problem is caused by
+coordination failure and proceed to outline exactly what the coordination entails. However, one
+may claim that the problem is caused by the absence of some other idea, system
+or invention and outline details for those. This might be a [better explanation](#good-explanations).
+
+In the business example one could claim that it is the absence of a monthly business coordination
+and accountability council that is part of the explanation of the problem. This is the same as
+explaining the cause as being the absence of some new cheap material or the absence of a basic
+income regulation. These are ideas for solutions, not explanations.
+
+*Moloch is a metaphor for a process that has no basis in reality.*
+
+### The Moloch framework is a false dichotomy
+
+```md
+There are more choices than to join in or not. People can add a third option.
+```
+
+The coordination framework that underpins Moloch is that there are competing agents who have
+the choice to collaborate or be selfish. There is no such restriction on real people in real
+situations. There are an [unlimited](#human-choice-is-a-product-of-creativity) number solutions that they could think of and try.
+
+To present problems as or "do or die" (join the competition and degrade ones values, or fall behind
+competitively) is simplistic and a failure of the imagination.
+
+*Attributing some problem to coordination failure is a failure of the imagination.*
+
+### Moloch is a prophesy that coordination failure will cause problems
+
+```md
+The concept of Moloch is an impossible prediction about specific bad things happening.
+```
+
+On Moloch, Scott Alexander writes "... He always and everywhere offers the same deal: throw what you love most into the flames, and I can grant you power."
+
+The core of Moloch is an imagined destruction-for-power deal. There is never such a deal when people
+are involved. They can think of new and [creative solutions](#imagination) and are not confined to throw or not-throw.
+
+That such a [binary deal](#the-moloch-framework-is-a-false-dichotomy) (coordinate or not) will "always" feature in future problems is a [pessimistic prophesy](#blind-pessimism-the-precautionary-principle).
+One cannot predict what problems we will face because they are dependent on the solutions we make.
+
+That coordination failure is "everywhere" is an [easy to vary (bad) explanation](#good-explanations) that does not explain
+how Moloch is present, other than "it will be there in some form if you look close enough".
+Which parts of a multi-agent system will fail to coordinate? In what way? What is the mechanism
+for this to keep occurring?
+
+*The metaphor of Moloch is used to claim that coordination failure is a fundamental and persistent phenomenon.
+This is an unsubstantiated prophesy about the nature of future problems.*
+
+### The idea of Moloch is not a harmless framework
+
+```md
+The belief that coordination failure is fundamental can cause misdirection and pessimism.
+```
+
+Moloch can cause three problems:
+1. People to fixate on coordination when other solutions can solve a problem
+2. Systems that promote coordination, which is unrelated (or oppositional to) to solving problems.
+3. People to feel [pessimism](#creativity-requires-optimism) because there is no way to escape this "fundamental flaw" that people
+are claimed to have. If Moloch is real, humans are destined to cause some galactic scale
+catastrophes filled with misery.
+
+*Moloch is a bad theory. Theories that include Moloch are likely to deviate from reality and will
+not be as useful for solving problems.*
+
+### There is no Moloch behind the prisoner's dilemma
+
+```md
+Sometimes people design systems with undesirable effects. The system can be redesigned.
+```
+
+It is claimed that prisoner's dilemmas exist and are ruled by Molochian processes. This
+is a misconception because people are creative and the world is complex. There are possible
+solutions that do not require coordination.
+
+A prisoner has a problem (prison). They are offered a bargain (and can take or leave it),
+but that is a [false dichotomy](#the-moloch-framework-is-a-false-dichotomy).
+They could try a third creative alternative, such as tell a journalist about the absurd bargain they
+were offered, which may cause prison reform.
+
+The prison system architect is faced with a separate problem, the emergent behaviour
+of the prisoners is creating outcomes that do not match the moral code of society. The goal
+of finding information from prisoners and ensuring future reduction in crime is not being met
+by offering out "faustian bargains". The prison system design is the real explanation for the
+problem, not [coordination](#the-misconception-of-moloch-is-that-coordination-is-only-one-of-many-possible-solutions).
+
+Prisoners dilemmas are an artificial constraint that makes it seem like some situations are
+doomed to impossible coordination tasks. In reality, systems are not isolated and people can
+"break the rules of the game".
+
+*A system may be designed with errors that result in problematic dynamics (prisoner dilemmas).
+A better system can be designed.*
+
+### There is no Moloch behind dollar auctions
+
+```md
+The problem with dollar auctions is not how to bid, but how to avoid getting stuck in the auction.
+```
+
+Two people end up in an auction that favours the auctioneer. It is argued that this points
+to a real coordination problem humans will tend to face.
+
+The misconception is that [coordination failure is not the best explanation](#moloch-is-not-real) for the dilemma.
+The real explanation involves looking at the broader system. How did they come to be playing this rigid
+game? Why are other systems of auctioning not being used? Is there monopolistic capture of auctions?
+Those will give the real explanation of the problem.
+
+*Dollar auctions are not Molochian, the scope of the problem includes the design and instantiation
+of the auction itself.*
+
+### There is no Moloch behind the fish farming story
+
+```md
+When groups want something enough, this signals a demand for a new and creative opportunity.
+```
+
+A community of fish farmers all want everyone to use filters, but don't want to themselves.
+This is their vocation, and so it is very important to them. There is no Moloch here, because
+people are able to come up with [creative solutions](#the-moloch-framework-is-a-false-dichotomy) to their problem
+of how to make the most money.
+
+The solution space includes anything physically possible.
+
+One farmer may downscale their fishing and offer a "filter inspection service". They frequently go
+around filming the farms. Other farmers can pay a small fee to see the footage. Knowing they are being observed, the farmers may all converge on using filters.
+
+*Problems that are large and significant are opportunities for creative solutions. These
+solutions are changes to the system, which are always possible if the laws of physics allow.*
+
+### There is no Moloch behind the Malthusian trap
+
+```md
+It does not make sense to point to animal systems as evidence that humans will be caught in
+traps. Humans can invent ways to get out of traps.
+```
+
+A population of rats go to a paradise island, which results in boom-bust cycles of plenty and
+scarcity of nuts. The rats are said to be doomed to these extremes as a consequence of Moloch.
+
+This analogy does not apply to [people](#people-are-special), who can think about the problem overall and come up with
+solutions for different systems for getting and distributing nutrition.
+
+Moloch is also not a guiding principle for evolution. Islands are complex and emergent phenomena,
+and one might see a growth in a population of rat-eating birds. This might indeed result in an
+equilibrium where the rats have a stable population with enough food.
+
+*The Malthusian trap incorrectly imposes the rigid constraint that people cannot create new
+explanatory knowledge.*
+
+### There is no Moloch behind capitalism
+
+```md
+Capitalism generates solutions to real problems. Solutions cause new problems.
+The trick is to apply capitalism to those new problems, not abandon capitalism.
+```
+
+It is argued that a competitive sweatshop garment industry is forced to abandon all values except
+profit. This means that many people have unpleasant lives in this industry.
+
+This is indeed is a problem, but it is not an inevitable "driving force" of capitalism.
+
+First there was a problem of expensive clothes. Someone solves this problem by relocating to
+a country with lower wages. A real problem was solved. Now there is a new problem, that people
+have low incomes.
+
+Now because the industry has a large scale, it will attract the attention of many
+people with new ideas. A premium brand label that has ethical workplaces. An invention
+to improve air quality that can be sold to many factories for a low unit price. An invention
+that a worker can use to work faster, easier and protect their hands.
+
+One should not [conflate solutions to problems as being problems themselves](#the-misconception-of-moloch-is-that-coordination-is-only-one-of-many-possible-solutions). Garment factories
+solve scarce clothing, and new and interesting problems arise. Capitalism causes [problems](#problems-are-inevitable-problems-are-soluble),
+but only because it solves problems first. Seeing capitalism as a problem generator rather
+than a solution generator is a misunderstanding.
+
+*Capitalism is the consequence of people working hard to solve real problems they see today.
+Their solution is unpredictable. New problems will emerge, and these too will be unpredictable but
+solvable.*
+
+### There is no Moloch behind the two income trap
+
+```md
+Women were not allowed careers. When that problem was solved, many lives flourished.
+A new problem of expensive houses arose, which is a new and addressable problem.
+```
+
+It is argued that if a suburb expensive houses has one-income households, eventually everyone
+will have two-income households, but the houses will be more expensive too. Moloch is said to be
+the cause of this undesirable end state.
+
+People get jobs for many reasons including community, life meaning, expression and agency in the world. 50% of the adult population created visions for their career and actioned them.
+This is not trivially reducible to "they did it to get a house".
+
+A happy and fulfilled two-income household can afford
+to pay more for a house they want. If many such people exist, the suburb culture one of happy
+working people, doing productive things for each other, living in costly homes. Costly homes
+but happy people. A career is a solution a person has to life meaning, expression and agency in the world.
+
+A person who does not like their work does have a real problem but can search for solutions that match their values such as a new career or a move to a new suburb.
+
+*The cause of a problem (more people working) may be something that is the solution to a different
+but very significant problem (cultural barriers to the opportunity to work).*
+
+### There is no Moloch behind the agricultural revolution
+
+```md
+The invention of farming caused many problems. People prefer the new problems to the old problems.
+```
+
+It is argued that hunter-gathers in a sufficiently intense competitive environment are driven
+by Moloch into an undesirable end point of agriculture. Diseases, oppression and pestilence, where
+before they had none.
+
+However, [hunter-gatherer people had real problems](#the-problem-with-an-untroubled-past). Severely unpleasant, terrifying and life threatening problems that today we do not have.
+Agriculture is an invention that directly solved food scarcity
+and gave people time to work on other problems, leading to writing, creating, inventing and
+sharing ideas.
+
+Hunter gatherer societies did not have access to the best ideas of how to stop mysterious diseases,
+or dethrone an oppressive village elder or stop strange groups people speaking unfamiliar language from attacking.
+
+The problems agriculture caused were new, emergent and unpredictable. The problems agriculture
+solved were real problems that real people wanted to solve.
+
+*The solution to a problem causes new problems. The solution is not a failure. New unpredictable problems will always arise and are not grounds for arguing that problems should not be solved at all.*
+
+### There is no Moloch behind arms races
+
+```md
+Two countries that never fight but dedicate money to weapons accidentally invent things that are
+useful throughout society.
+```
+
+It is argued that spending money on military is bad, for different countries could coordinate to
+all spend lower amounts if Moloch was driving them to be the biggest spender.
+
+First, military spending results in real people applying themselves to create new things that
+are tested against reality. This focus of reality testing (it must actually work), means new
+explanatory knowledge is created frequently. This has [reach beyond military domains](#reach-of-explanations). So one can
+see that military spending directly leads to innovation in other fields we value
+(medicine, computing, etc.). So one may end up with unused missiles and spinal implants for
+paraplegia.
+
+Military solves real problems. One of the most harmful things is a [static society](#the-problem-with-static-societies) that prevents
+criticism and change. It is not easy to defend against a culture who is not open to correcting
+errors and who wishes to spread that culture. Those cultures have existed and one real solution is
+a military. Once all societies are dynamic and can internally correct and improve, militaries may
+be required less.
+
+An arms race is the dedication of vast resources to people who create new and unpredictable
+explanatory knowledge that has reach in non-military applications. This is not wasted resources.
+
+*The creation new knowledge is not containable to a single domain. All serious research efforts
+produce knowledge that can solve unrelated problems.*
+
+### There is no Moloch behind cancer
+
+```md
+A cancer cell in a body is part of a broader system that uses blind guesswork to discover reality.
+That sometimes this results in bad ideas doesn't mean Moloch is driving things to fail.
+```
+
+It is claimed that a cell may end up causing a situation that is bad for itself due to the
+fundamental presence of a Molochian process.
+
+A cell is an expression of a genome, which is a system for blindly
+experimentally generating and evaluating random ideas and seeing if they match reality.
+
+In the example a cancer cell is perhaps part of an experiment that explores what is a good
+amount of mutation to permit. Ideas (new gene mutations) for the next generation
+can be tried faster with more mutability, but at the expense of stability once the body is grown (cancer). It is genes that are the replicating unit in evolution-based knowledge creation,
+not cells. So seeking "rational" behaviour at the cellular level results in a meaningless analogy
+and coordination between individual cells [is not required](#coordination-is-not-required) to
+solve the problem.
+
+Looking at the broader system, the presence of organisms with tumours that arise
+after reproductive age could indicate some knowledge about reality. For example, the
+rate of high energy solar radiation particles on Earth, and the presence of an ever-changing
+environment of shifting rewards and dangers. That tumours sometimes kill might be the optimal
+setting for biological systems optimised for blind adaptation.
+
+*Systems that create non-explanatory knowledge may have units that don't make sense if viewed
+in isolation. Overall, such systems are not doomed to fail due to some fundamental Molochian force.*
+
+### There is no Moloch behind a race to the bottom
+
+```md
+Competition drives the creation of new ideas and helps us understand what it is that we really
+value.
+```
+
+It is claimed that competing agents will tend to sacrifice a common value and become less scrupulous
+over time. This is proposed as a general truth, which can be considered Molochian as unless
+agents coordinate, common values will disappear.
+
+One specific example is that a government will lower taxes to levels to attract people, but that
+this overall causes tax revenue to be too low and no change in the number of businesses. The mistake
+here is imagining that competing governments must only choose between making taxes high or low.
+They can of course try completely different ideas instead, in conjunction with, or after the tax
+high or tax low decision.
+
+In general error of this framework is thinking that the competing agents only have
+[two potential actions](#the-moloch-framework-is-a-false-dichotomy),
+to copy behaviour or lose. Agents can create innumerable new and novel creative
+ideas that can be tried instead, alongside or after a given set of options. There is no single
+"bottom" of some Molochian pit that all agents are destined for.
+
+One example of a creative idea a government can try is to keep high taxes, but launch a campaign
+showing off its wonderful public infrastructure and health care, and make its spending transparent
+and open to criticism. Employees might find this appealing. Businesses might locate where they
+can find the best employees. [Coordination is not required](#coordination-is-not-required).
+
+*There is no race to the bottom trap for multi-agent systems involving people. This is a false
+dichotomy, for agents may choose one or many novel paths of action. There is no guaranteed doom
+as long as agents are free to try new things.*
+
+### There is no Moloch behind education incentives
+
+```md
+Some people can see an expensive degree is broken a metric. They can use this to their advantage
+to outcompete others who do not see this reality.
+```
+
+It is argued that there is Molochian pressure that drives people to pay for high status degrees
+that do not deliver useful skills.
+
+The mistake here is in thinking that as a metric (a degree) starts to lose value, that people
+will not see this and use it as an opportunity to solve their own problems.
+
+An employer might correctly see that graduates have very little useful skills and have a lot
+of debt. These employers will have a competitive advantage because they can find highly skilled
+low-status degrees or self-taught people that are happy to with a lower income.
+
+A high status educational institution might detect that it's degrees are
+starting to signal "low skill", and could create ideas to resolve that. [Coordination is not required](#coordination-is-not-required).
+
+*Metrics that fall to Goodhart's law become bad theories.  People are not forced by Moloch to
+stick with old metrics, and can come up with better ideas for metrics that will have a competitive
+advantage.*
+
+
+### There is no Moloch behind scientific research
+
+```md
+Science produces real value for the world. This is a large incentive to improve the way science
+is conducted. Those who solve this problem have a lot to gain.
+```
+
+It is claimed that there is a Molochian force that drives science to produce confusing, late, biased and
+misleading content. People can see what must be done but cannot get it done.
+
+The mistake here is the claim that people cannot create new ways to solve these problems.
+There is extraordinary [wealth](#wealth) that comes from the creation of new explanatory knowledge. It
+is reasonable that people will create new ways to increase the quality and rate of [science](#science-is-the-search-for-good-explanations).
+Those who do could have access to part of that value.
+
+For example, retroactive funding for discoveries that resulted in material technologies could make
+some basic science researchers extraordinarily wealthy. This could create a cultural shift focused
+on fast, broad, real and novel science. A small isolated group could implement this, and
+[coordination is not required](#coordination-is-not-required) for the idea to spread.
+
+The current problems in science arose after much far more significant problems were solved. Science
+used to be isolated, unpublished and unreviewed. People knew these were problems. Individual
+people solved these problems through things like, the invention of the book, the printing press,
+the journal and the internet.
+
+*People that see better ways of conducting science will produce more good explanations than others
+and have a competitive advantage. This knowledge of how to do science will tend to persist.*
+
+### There is no Moloch behind government corruption
+
+```md
+If a government is corrupt, the democratic process allows them to be removed, as long
+as people agree that it is a real and worthwhile problem to vote on.
+```
+
+It is claimed that government donations to corporations is inevitable because corporations can
+affect government officials.
+
+For this argument let's assume that giving money to corporations is bad.
+
+If the amount of money is truly large and could be repurposed to things voters really care about,
+this an opportunity for a party make this information known to the voters and to put forward ideas
+about what should actually take place. If voters think it is a good idea, then this could plausibly
+get the party elected.
+
+If the majority of a population disagree with the experts about the corruption, then the specialists
+can solve that problem by presenting their rationale to the wider public more creatively.
+
+*A democracy is a system that the capacity to remove bad rulers. A party with corrupt
+spending practices can be replaced by one with different ideas if enough people see and agree.*
+
+### There is no Moloch behind the US Congress
+
+```md
+A good government will find and debate things people disagree about. That may not be nice to
+watch, but it is how progress is made.
+```
+
+It is argued that the low approval rating of the US Congress is a manifestation of Moloch.
+People should be happy with the way Congress it is handling its job.
+
+The mistake here is in thinking that disagreement about the action of Congress is a good explanation
+for its failure.
+
+In a democracy, parties debate current ideas that people are passionate about. There are an enormous
+amount of old ideas that both parties agree on and which do not get debated any more. Only new ideas that
+the people care about and also disagree about are subject to debate. When operating well,
+parties will find the core problems that society is wrestling with. These ideas will be the most
+controversial, where there is no clear majority opinion. That is, the idea divides the country in
+[two](#two-party-systems-are-ideal).
+
+Congress represents these divisive ideas. One day society may come to partly agree about aspects of these
+ideas and will move on to new and divisive ideas. [A population cannot ever fully agree](#the-problem-with-social-choice-theory).
+
+That is to say that representative democracy, when working well, will represent divisive ideas.
+The theory that everyday people should feel approving of congress overall is a misconception.
+A better theory might be that if everyone is happy with congress, then they are not finding the
+real issues that people find important but disagree about.
+
+*A democracy that functions well is expected to be representing the most divisive ideas. Disapproval
+of the US Congress implies it is working on the most important areas for people.*
